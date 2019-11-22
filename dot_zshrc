@@ -1,0 +1,409 @@
+# If you come from bash you might have to change your $PATH.
+export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH="${PATH}:${HOME}/.local/bin/"
+# export PATH="$HOME/.rbenv/bin:$PATH"
+
+# Path to your oh-my-zsh installation.
+export ZSH=/Users/leandro/.oh-my-zsh
+
+# . /Users/leandro/z.sh
+
+# Set name of the theme to load. Optionally, if you set this to "random"
+# it'll load a random theme each time that oh-my-zsh is loaded.
+# See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+# ZSH_THEME="spaceship"
+# ZSH_THEME=""
+
+# Set list of themes to load
+# Setting this variable when ZSH_THEME=random
+# cause zsh load theme from this variable instead of
+# looking in ~/.oh-my-zsh/themes/
+# An empty array have no effect
+# ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
+
+# Uncomment the following line to use case-sensitive completion.
+# CASE_SENSITIVE="true"
+
+# Uncomment the following line to use hyphen-insensitive completion. Case
+# sensitive completion must be off. _ and - will be interchangeable.
+# HYPHEN_INSENSITIVE="true"
+
+# Uncomment the following line to disable bi-weekly auto-update checks.
+# DISABLE_AUTO_UPDATE="true"
+
+# Uncomment the following line to change how often to auto-update (in days).
+# export UPDATE_ZSH_DAYS=13
+
+# Uncomment the following line to disable colors in ls.
+# DISABLE_LS_COLORS="true"
+
+# Uncomment the following line to disable auto-setting terminal title.
+# DISABLE_AUTO_TITLE="true"
+
+# Uncomment the following line to enable command auto-correction.
+# ENABLE_CORRECTION="true"
+
+# Uncomment the following line to display red dots whilst waiting for completion.
+# COMPLETION_WAITING_DOTS="true"
+
+# Uncomment the following line if you want to disable marking untracked files
+# under VCS as dirty. This makes repository status check for large repositories
+# much, much faster.
+# DISABLE_UNTRACKED_FILES_DIRTY="true"
+
+# Uncomment the following line if you want to change the command execution time
+# stamp shown in the history command output.
+# The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
+# HIST_STAMPS="mm/dd/yyyy"
+
+# Would you like to use another custom folder than $ZSH/custom?
+# ZSH_CUSTOM=/path/to/new-custom-folder
+
+# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
+# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+# Add wisely, as too many plugins slow down shell startup.
+plugins=(
+    git
+    z
+    colorize
+)
+
+# Load the shell dotfiles, and then some:
+# * ~/.path can be used to extend `$PATH`.
+# * ~/.extra can be used for other settings you don’t want to commit.
+for file in ~/.{aliases,functions}; do
+	[ -r "$file" ] && [ -f "$file" ] && source "$file";
+done;
+unset file;
+
+
+# Set personal aliases, overriding those provided by oh-my-zsh libs,
+# plugins, and themes. Aliases can be placed here, though oh-my-zsh
+# users are encouraged to define aliases within the ZSH_CUSTOM folder.
+# For a full list of active aliases, run `alias`.
+#
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
+ # Misc.
+ #export USE_MEMCACHE=1
+
+# =============================================================================
+#                                   Variables
+# =============================================================================
+export LANG="en_US.UTF-8"
+export LC_ALL="en_US.UTF-8"
+
+# export FZF_DEFAULT_OPTS='--height 40% --reverse --border --inline-info --color=dark,bg+:235,hl+:10,pointer:5'
+
+# export ENHANCD_FILTER="fzf:peco:percol"
+# export ENHANCD_COMMAND='c'
+
+# Common ENV variables
+
+# Set CLICOLOR if you want Ansi Colors in iTerm2
+export CLICOLOR=1
+export PATH="$PATH:`yarn global bin`"
+export PATH="${PATH}:${HOME}/.local/bin/"
+export TERM=rxvt-256color
+
+export TERM="xterm-256color"
+export SHELL="/bin/zsh"
+export EDITOR="code -w"
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+export PYTHONIOENCODING=utf-8
+
+# Stats debugging
+export DEBUG_MIXPANEL=true
+
+# Read-only mode.
+export READ_ONLY_MODE=false
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+[ -d "$HOME/bin" ] && export PATH="$HOME/bin:$PATH"
+# =============================================================================
+#                                   Plugins
+# =============================================================================
+# Check if zplug is installed
+
+[ ! -d ~/.zplug ] && git clone https://github.com/zplug/zplug ~/.zplug
+source ~/.zplug/init.zsh
+
+# zplug
+zplug 'zplug/zplug', hook-build:'zplug --self-manage'
+
+# oh-my-zsh
+#zplug "zplug/zplug"
+#zplug "robbyrussell/oh-my-zsh", use:"lib/*.zsh"
+
+# Miscellaneous commands
+#zplug "andrewferrier/fzf-z"
+zplug "k4rthik/git-cal",  as:command
+# zplug "peco/peco",        as:command, from:gh-r
+zplug "junegunn/fzf-bin", as:command, from:gh-r, rename-to:fzf, \
+	use:"*${(L)$(uname -s)}*amd64*"
+zplug "junegunn/fzf", use:"shell/*.zsh", as:plugin
+
+# Enhanced cd
+zplug "b4b4r07/enhancd", use:init.sh
+
+# Enhanced dir list with git features
+zplug "supercrabtree/k"
+
+# Simple zsh calculator
+# zplug "arzzen/calc.plugin.zsh"
+
+# Directory colors
+# zplug "seebi/dircolors-solarized", ignore:"*", as:plugin
+
+# Load theme
+# zplug "bhilburn/powerlevel9k", use:powerlevel9k.zsh-theme
+zplug 'mafredri/zsh-async', from:github
+zplug 'sindresorhus/pure', use:pure.zsh, from:github, as:theme
+# zplug "denysdovhan/spaceship-prompt", use:spaceship.zsh, from:github, as:theme
+# zplug "nivv/operator-theme", use:operator.zsh, from:github, as:theme
+
+# zplug "plugins/common-aliases",    from:oh-my-zsh
+# zplug "plugins/colored-man-pages", from:oh-my-zsh
+# zplug "plugins/copydir",           from:oh-my-zsh
+# zplug "plugins/copyfile",          from:oh-my-zsh
+# zplug "plugins/encode64",          from:oh-my-zsh
+# zplug "plugins/history",           from:oh-my-zsh
+# zplug "plugins/tmux",              from:oh-my-zsh
+# zplug "plugins/tmuxinator",        from:oh-my-zsh
+zplug "plugins/colorize",                 from:oh-my-zsh
+zplug "plugins/command-not-found",        from:oh-my-zsh
+zplug "plugins/cp",                       from:oh-my-zsh
+zplug "plugins/dircycle",                 from:oh-my-zsh
+zplug "plugins/extract",                  from:oh-my-zsh
+zplug "plugins/urltools",                 from:oh-my-zsh
+zplug "plugins/web-search",               from:oh-my-zsh
+zplug "plugins/z",                        from:oh-my-zsh
+zplug "plugins/fancy-ctrl-z",             from:oh-my-zsh
+zplug "plugins/zsh-256color",             from:oh-my-zsh
+zplug "plugins/appup",                    from:oh-my-zsh
+zplug "plugins/git-prune",                from:oh-my-zsh
+zplug "qoomon/zsh-lazyload"
+
+# Supports oh-my-zsh plugins and the like
+if [[ $OSTYPE = (linux)* ]]; then
+    zplug "plugins/archlinux",     from:oh-my-zsh, if:"(( $+commands[pacman] ))"
+    zplug "plugins/dnf",           from:oh-my-zsh, if:"(( $+commands[dnf] ))"
+fi
+
+if [[ $OSTYPE = (darwin)* ]]; then
+    zplug "lib/clipboard",         from:oh-my-zsh
+    zplug "plugins/osx",           from:oh-my-zsh
+    zplug "plugins/brew",          from:oh-my-zsh, if:"(( $+commands[brew] ))"
+    # zplug "plugins/macports",      from:oh-my-zsh, if:"(( $+commands[port] ))"
+fi
+
+zplug "plugins/git",               from:oh-my-zsh, if:"(( $+commands[git] ))"
+zplug "plugins/node",              from:oh-my-zsh, if:"(( $+commands[node] ))"
+zplug "plugins/npm",               from:oh-my-zsh, if:"(( $+commands[npm] ))"
+# zplug "plugins/bundler",           from:oh-my-zsh, if:"(( $+commands[bundler] ))"
+# zplug "plugins/gem",               from:oh-my-zsh, if:"(( $+commands[gem] ))"
+# zplug "plugins/rbenv",             from:oh-my-zsh, if:"(( $+commands[rbenv] ))"
+# zplug "plugins/rvm",               from:oh-my-zsh, if:"(( $+commands[rvm] ))"
+zplug "plugins/pip",               from:oh-my-zsh, if:"(( $+commands[pip] ))"
+zplug "plugins/sudo",              from:oh-my-zsh, if:"(( $+commands[sudo] ))"
+zplug "plugins/gpg-agent",         from:oh-my-zsh, if:"(( $+commands[gpg-agent] ))"
+# zplug "plugins/systemd",           from:oh-my-zsh, if:"(( $+commands[systemctl] ))"
+zplug "plugins/docker",            from:oh-my-zsh, if:"(( $+commands[docker] ))"
+zplug "plugins/docker-compose",    from:oh-my-zsh, if:"(( $+commands[docker-compose] ))"
+
+# zplug "hlissner/zsh-autopair", defer:2
+zplug "zsh-users/zsh-completions"
+zplug "zsh-users/zsh-autosuggestions"
+# zsh-syntax-highlighting must be loaded after executing compinit command
+# and sourcing other plugins
+zplug "zsh-users/zsh-syntax-highlighting", defer:2
+# zplug "zsh-users/zsh-history-substring-search", defer:3
+
+zplug "g-plane/zsh-yarn-autocompletions", hook-build:"./zplug.zsh", defer:2
+zplug "lukechilds/zsh-nvm"
+zplug "changyuheng/fz", defer:1
+zplug "rupa/z", use:z.sh
+zplug "MichaelAquilina/zsh-you-should-use"
+
+
+ # =============================================================================
+#                                   Functions
+# =============================================================================
+
+zsh_wifi_signal(){
+    local output=$(/System/Library/PrivateFrameworks/Apple80211.framework/Versions/A/Resources/airport -I)
+    local airport=$(echo $output | grep 'AirPort' | awk -F': ' '{print $2}')
+
+    if [ "$airport" = "Off" ]; then
+        local color='%F{yellow}'
+        echo -n "%{$color%}Wifi Off"
+    else
+        local ssid=$(echo $output | grep ' SSID' | awk -F': ' '{print $2}')
+        local speed=$(echo $output | grep 'lastTxRate' | awk -F': ' '{print $2}')
+        local color='%F{yellow}'
+
+        [[ $speed -gt 100 ]] && color='%F{green}'
+        [[ $speed -lt 50 ]] && color='%F{red}'
+
+        echo -n "%{$color%}\uf1eb $ssid $speed Mb/s%{%f%}" # removed char not in my PowerLine font
+    fi
+}
+
+# If the code command is called without an argument, launch VS Code
+# If code is passed a directory, cd to it and open it in VS Code
+# If code is passed a file, open it in VS code
+#
+function code {
+    if [[ $# = 0 ]]
+    then
+        open_command -a "Visual Studio Code"
+    else
+        local argPath="$1"
+        [[ $1 = /* ]] && argPath="$1" || argPath="$PWD/${1#./}"
+        open_command -a "Visual Studio Code" "$argPath"
+    fi
+}
+
+# Create a new directory and enter it
+function mkd() {
+	mkdir -p "$@" && cd "$_";
+}
+
+# =============================================================================
+#                                   Aliases
+# =============================================================================
+
+# In the definitions below, you will see use of function definitions instead of
+# aliases for some cases. We use this method to avoid expansion of the alias in
+# combination with the globalias plugin.
+
+# Directory coloring
+if [[ $OSTYPE = (darwin|freebsd)* ]]; then
+	export CLICOLOR="YES" # Equivalent to passing -G to ls.
+	export LSCOLORS="exgxdHdHcxaHaHhBhDeaec"
+
+	[ -d "/opt/local/bin" ] && export PATH="/opt/local/bin:$PATH"
+
+	# Prefer GNU version, since it respects dircolors.
+	if (( $+commands[gls] )); then
+		alias ls='() { $(whence -p gls) -Ctr --file-type --color=auto $@ }'
+	else
+		alias ls='() { $(whence -p ls) -CFtr $@ }'
+	fi
+else
+	alias ls='() { $(whence -p ls) -Ctr --file-type --color=auto $@ }'
+fi
+
+# Set editor preference to nvim if available.
+# if (( $+commands[nvim] )); then
+# 	alias vim='() { $(whence -p nvim) $@ }'
+# else
+# 	alias vim='() { $(whence -p vim) $@ }'
+# fi
+
+# Go up an abritrary number of directories
+# Use with 'up' or 'up 5' to go up N directories
+function up {
+    if [[ "$#" < 1 ]] ; then
+        cd ..
+    else
+        CDSTR=""
+        for i in {1..$1} ; do
+            CDSTR="../$CDSTR"
+        done
+        cd $CDSTR
+    fi
+}
+
+alias zshrc="code ~/.zshrc"
+alias update="source ~/.zshrc"
+alias ohmyzsh="code ~/.oh-my-zsh"
+alias vscode='code'
+alias nvmrc='node -v > .nvmrc'
+# Directory management
+alias lc='colorls --sd --gs -1a --report'
+alias ll='colorls --group-directories-first --almost-all --long'
+# alias ll='ls -l'
+# alias lal='ls -al'
+# alias d='dirs -v'
+# alias 1='pu'
+# alias 2='pu -2'
+# alias 3='pu -3'
+# alias 4='pu -4'
+# alias 5='pu -5'
+# alias 6='pu -6'
+# alias 7='pu -7'
+# alias 8='pu -8'
+# alias 9='pu -9'
+alias pu='() { pushd $1 &> /dev/null; dirs -v; }'
+# alias po='() { popd &> /dev/null; dirs -v; }'
+alias weather="curl wttr.in/Wellington,New+Zealand"
+alias y="yarn"
+alias new-crt="open -n -a cool-retro-term"
+alias stfu="osascript -e 'set volume output muted true'"
+alias pumpitup="osascript -e 'set volume output volume 100'"
+# Lock the screen (when going AFK)
+alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
+# Empty the Trash on all mounted volumes and the main HDD.
+# Also, clear Apple’s System Logs to improve shell startup speed.
+# Finally, clear download history from quarantine. https://mths.be/bum
+alias emptytrash="sudo rm -rfv /Volumes/*/.Trashes; sudo rm -rfv ~/.Trash; sudo rm -rfv /private/var/log/asl/*.asl; sqlite3 ~/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV* 'delete from LSQuarantineEvent'"
+# Recursively delete `.DS_Store` files
+# alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
+# Get macOS Software Updates, and update installed Ruby gems, Homebrew, npm, and their installed packages
+alias system-update='sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup; npm install npm -g; npm update -g; sudo gem update --system; sudo gem update; sudo gem cleanup'
+
+# =============================================================================
+#                                   Startup
+# =============================================================================
+
+# Install plugins if there are plugins that have not been installed
+if ! zplug check; then
+    printf "Install plugins? [y/N]: "
+    if read -q; then
+        echo; zplug install
+    fi
+fi
+
+if zplug check "zsh-users/zsh-syntax-highlighting"; then
+	#ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'
+	ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets pattern cursor line)
+	ZSH_HIGHLIGHT_PATTERNS=('rm -rf *' 'fg=white,bold,bg=red')
+
+	typeset -A ZSH_HIGHLIGHT_STYLES
+	ZSH_HIGHLIGHT_STYLES[cursor]='bg=yellow'
+	ZSH_HIGHLIGHT_STYLES[globbing]='none'
+	ZSH_HIGHLIGHT_STYLES[path]='fg=white'
+	ZSH_HIGHLIGHT_STYLES[path_pathseparator]='fg=grey'
+	ZSH_HIGHLIGHT_STYLES[alias]='fg=cyan'
+	ZSH_HIGHLIGHT_STYLES[builtin]='fg=cyan'
+	ZSH_HIGHLIGHT_STYLES[function]='fg=cyan'
+	ZSH_HIGHLIGHT_STYLES[command]='fg=green'
+	ZSH_HIGHLIGHT_STYLES[precommand]='fg=green'
+	ZSH_HIGHLIGHT_STYLES[hashed-command]='fg=green'
+	ZSH_HIGHLIGHT_STYLES[commandseparator]='fg=yellow'
+	ZSH_HIGHLIGHT_STYLES[redirection]='fg=magenta'
+	ZSH_HIGHLIGHT_STYLES[bracket-level-1]='fg=cyan,bold'
+	ZSH_HIGHLIGHT_STYLES[bracket-level-2]='fg=green,bold'
+	ZSH_HIGHLIGHT_STYLES[bracket-level-3]='fg=magenta,bold'
+	ZSH_HIGHLIGHT_STYLES[bracket-level-4]='fg=yellow,bold'
+fi
+
+
+# Then, source plugins and add commands to $PATH
+zplug load
+
+# autoload -U promptinit; promptinit
+# prompt purer
+
+source $(dirname $(gem which colorls))/tab_complete.sh
+source /Users/leandro/Documents/TerminalTools/almostontop/almostontop.plugin.zsh
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $ZSH/oh-my-zsh.sh
+
+[ -s "/Users/leandro/.scm_breeze/scm_breeze.sh" ] && source "/Users/leandro/.scm_breeze/scm_breeze.sh"

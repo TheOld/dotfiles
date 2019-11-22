@@ -1,0 +1,12 @@
+chsh -s /bin/zsh
+chsh -s /bin/zsh
+brew install mackup
+mackup restore
+brew update
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sudo chsh -s /bin/zsh
+chsh -s /bin/zsh
+chsh -s /bin/zsh
+zshconfig
+zsh

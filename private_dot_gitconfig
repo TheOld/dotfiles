@@ -1,0 +1,20 @@
+[user]
+	name = Leandro
+	email = leandro_rodrigues@live.com
+[color]
+	ui = auto
+[core]
+	excludesfile = /Users/leandrorodrigues/.gitignore
+	editor = code --wait
+[diff]
+    tool = default-difftool
+[difftool "default-difftool"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+[commit]
+	template = /Users/leandrorodrigues/.stCommitMsg
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[alias]
+	up = pull --rebase --autostash
