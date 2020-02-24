@@ -4,3 +4,5 @@ source ~/.profile
 
 
 [ -s "/Users/leandro/.scm_breeze/scm_breeze.sh" ] && source "/Users/leandro/.scm_breeze/scm_breeze.sh"
+# Added by install_latest_perl_osx.pl
+[ -r /Users/leandro/.bashrc ] && source /Users/leandro/.bashrc

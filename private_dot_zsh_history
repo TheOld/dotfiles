@@ -1,0 +1,2835 @@
+: 1574386045:0;yarn test
+: 1574386045:0;y add enzyme
+: 1574386045:0;y test
+: 1574386045:0;y add enzyme-adapter-react-16
+: 1574386045:0;touch setupTest.js
+: 1574386045:0;y add jest-environment-enzyme
+: 1574386045:0;y test
+: 1574386045:0;y add jest-enzyme
+: 1574386045:0;y test
+: 1574386045:0;clear
+: 1574386045:0;y test
+: 1574386045:0;y jest
+: 1574386045:0;yarn test
+: 1574386045:0;clear
+: 1574386045:0;pwd
+: 1574386045:0;lc
+: 1574386045:0;clear
+: 1574386045:0;gst
+: 1574386045:0;y && y start
+: 1574386045:0;yarn stage:local
+: 1574386045:0;yarn serve
+: 1574386045:0;clear
+: 1574386045:0;z markting
+: 1574386045:0;z marketing
+: 1574386045:0;yarn start
+: 1574386045:0;y add react-hook-form
+: 1574386045:0;y start
+: 1574386045:0;y add react-static-plugin-sass
+: 1574386045:0;y start
+: 1574386045:0;y && y start
+: 1574386045:0;y
+: 1574386045:0;y start
+: 1574386045:0;y stage:local
+: 1574386045:0;y build
+: 1574386045:0;y serve
+: 1574386045:0;yarn stage:local
+: 1574386045:0;y test
+: 1574386045:0;y serve
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y start
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y start
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y start
+: 1574386045:0;y test
+: 1574386045:0;y start
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y stage:local
+: 1574386045:0;y s
+: 1574386045:0;y start
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;gp --set-upstream origin lr/create-global-styles-and-overrides
+: 1574386045:0;gs
+: 1574386045:0;gst
+: 1574386045:0;y lint:css
+: 1574386045:0;y start
+: 1574386045:0;clear
+: 1574386045:0;y start
+: 1574386045:0;y build:styles
+: 1574386045:0;yarn lint:css
+: 1574386045:0;y start
+: 1574386045:0;y add modularscale-sass -D
+: 1574386045:0;y start
+: 1574386045:0;y stage:local
+: 1574386045:0;y serve
+: 1574386045:0;y start
+: 1574386045:0;y build:styles
+: 1574386045:0;y start
+: 1574386045:0;y build:styles
+: 1574386045:0;ys tart
+: 1574386045:0;y start
+: 1574386045:0;y lint
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;y start
+: 1574386045:0;z marketing
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;y lint
+: 1574386045:0;y vz
+: 1574386045:0;ycz
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;y test
+: 1574386045:0;y
+: 1574386045:0;y test
+: 1574386045:0;y add jest-transform-css -D
+: 1574386045:0;y test
+: 1574386045:0;y add @babel/polyfill -D
+: 1574386045:0;y test
+: 1574386045:0;y remove jest-transform-css
+: 1574386045:0;y test
+: 1574386045:0;yarn add identity-obj-proxy -D
+: 1574386045:0;y test
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;git pull
+: 1574386045:0;y
+: 1574386045:0;y start
+: 1574386045:0;y && y start
+: 1574386045:0;y start
+: 1574386045:0;docker --version
+: 1574386045:0;brew cask install docker
+: 1574386045:0;docker --version
+: 1574386045:0;sudo docker --version
+: 1574386045:0;alias
+: 1574386045:0;docker --version
+: 1574386045:0;docker ps
+: 1574386045:0;pwd
+: 1574386045:0;z sites
+: 1574386045:0;cd typ-v2-dev-container
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker images
+: 1574386045:0;docker rmi php
+: 1574386045:0;docker images
+: 1574386045:0;docker rmi bb68a4463903
+: 1574386045:0;docker ps -a
+: 1574386045:0;docker rm a3c1d04856c4
+: 1574386045:0;docker ps -a
+: 1574386045:0;docker rm d4cc377d04b2
+: 1574386045:0;docker ps -a
+: 1574386045:0;docker rmi bb68a4463903
+: 1574386045:0;docker images
+: 1574386045:0;docker rmi bb68a4463903
+: 1574386045:0;docker ps -a
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker rmi $(docker images --filter "dangling=true" -q --no-trunc)
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker rmi $(docker images --filter "dangling=true" -q --no-trunc)
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;ipconfig
+: 1574386045:0;docker exec -it 7ce89a9158a5a08e86bb98b2f93ff5abedd13d0a01e15ed7b3017d8e950c6208 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1574386045:0;docker logs -f 7ce89a9158a5a08e86bb98b2f93ff5abedd13d0a01e15ed7b3017d8e950c6208
+: 1574386045:0;z ~/Sites/typ-v3-marketing-site/
+: 1574386045:0;y start
+: 1574386045:0;figlet "Beer time" | lolcat
+: 1574386045:0;sudo open /Applications/Visual\ Studio\ Code.app
+: 1574386045:0;docker exec -it 7ce89a9158a5a08e86bb98b2f93ff5abedd13d0a01e15ed7b3017d8e950c6208 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1574386045:0;clear
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker exec -it 7ce89a9158a5a08e86bb98b2f93ff5abedd13d0a01e15ed7b3017d8e950c6208 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1574386045:0;docker rmi $(docker images --filter "dangling=true" -q --no-trunc)
+: 1574386045:0;clear
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker logs -f 444ebb58522ac38df4b420eb82ce5c975a6a6a9654ec21793cebce558649fa10
+: 1574386045:0;docker exec -it 444ebb58522ac38df4b420eb82ce5c975a6a6a9654ec21793cebce558649fa10 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;weather
+: 1574386045:0;alias
+: 1574386045:0;weather
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;docker logs -f 4c69c9d285c7d7c39584bed68ecd04a3b509e26a83e121f19ed02012bdec43f4
+: 1574386045:0;z marketing
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;y start
+: 1574386045:0;z container
+: 1574386045:0;docker-compose down
+: 1574386045:0;docker-compose up -d
+: 1574386045:0;brew cask install cool-retro-term
+: 1574386045:0;z marketing
+: 1574386045:0;gs
+: 1574386045:0;git status
+: 1574386045:0;gst
+: 1574386045:0;weather
+: 1574386045:0;figlet "Beer time" | lolcat
+: 1574386045:0;lc
+: 1574386045:0;clear
+: 1574386045:0;y statr
+: 1574386045:0;y start
+: 1574386045:0;lc
+: 1574386045:0;tail package.json
+: 1574386045:0;clear
+: 1574386045:0;figlet "Beer time" | lolcat
+: 1574386045:0;clear
+: 1574386045:0;y start
+: 1574386045:0;matrix
+: 1574386045:0;clear
+: 1574386045:0;y start
+: 1574386045:0;y cz
+: 1574386045:0;weather
+: 1574386045:0;gp
+: 1574386045:0;zshconfig
+: 1574386045:0;zsh
+: 1574386045:0;clear
+: 1574386045:0;lc
+: 1574386045:0;quit
+: 1574386045:0;exit
+: 1574386045:0;z marketing
+: 1574386045:0;zsh
+: 1574386045:0;upgrade_oh_my_zsh
+: 1574386045:0;sudo upgrade_oh_my_zsh
+: 1574386045:0;upgrade_oh_my_zsh
+: 1574386045:0;z marketing
+: 1574386045:0;sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+: 1574386045:0;sudo -s
+: 1574386045:0;sudo chown leandro /home/leandro
+: 1574386045:0;sudo chown leandro /users/leandro
+: 1574386045:0;upgrade_oh_my_zsh
+: 1574386045:0;cd ~/.oh-my-zsh
+: 1574386045:0;git stash
+: 1574386045:0;upgrade_oh_my_zsh
+: 1574386045:0;z marketing
+: 1574386045:0;lc
+: 1574386045:0;defaults write com.apple.finder AppleShowAllFiles YES
+: 1574386045:0;gst
+: 1574386045:0;gcd
+: 1574386045:0;git checkout lr/create-global-styles-and-overrides
+: 1574386045:0;gco lr/create-global-styles-and-overrides
+: 1574386045:0;npm i -g movie-cli
+: 1574386045:0;movie Interstellar
+: 1574386045:0;npm i -g speed-test
+: 1574386045:0;speed-test
+: 1574386045:0;cloc
+: 1574386045:0;brew install screenfetch
+: 1574386045:0;screenfetch
+: 1574386045:0;screen
+: 1574386045:0;z marketing
+: 1574386045:0;pwd
+: 1574386045:0;lc
+: 1574386045:0;y start
+: 1574386045:0;cal
+: 1574386045:0;cal | lolcat
+: 1574386045:0;figlet "Beer time" | lolcat
+: 1574386045:0;zshconfig
+: 1574386045:0;peco
+: 1574386045:0;zshconfig
+: 1574386045:0;git clone https://github.com/tarjoilija/zgen.git "${HOME}/.zgen"
+: 1574386045:0;zsh
+: 1574386045:0;z marketing
+: 1574386045:0;gprune
+: 1574386045:0;gst
+: 1574386045:0;zsh
+: 1574386045:0;clear
+: 1574386045:0;y
+: 1574386045:0;zsh
+: 1574386045:0;zplug update
+: 1574386045:0;zplug update --self
+: 1574386045:0;zplug clear
+: 1574386045:0;zplug --help
+: 1574386045:0;zplug check
+: 1574386045:0;zplug status
+: 1574386045:0;zplug -h
+: 1574386045:0;zplug --help
+: 1574386045:0;zplug --self-manage
+: 1574386045:0;zplug help
+: 1574386045:0;zplug clean
+: 1574386045:0;zplug clear
+: 1574386045:0;zplug help
+: 1574386045:0;zplug load
+: 1574386045:0;lc
+: 1574386045:0;vi .stylelintrc
+: 1574386045:0;up 2
+: 1574386045:0;pwd
+: 1574386045:0;z ~/Sites/typ-v3-marketing-site/
+: 1574386045:0;alias
+: 1574386045:0;bubc
+: 1574386045:0;alias
+: 1574386045:0;base16_pop
+: 1574386045:0;alias
+: 1574386045:0;ducky Interstellar
+: 1574386045:0;brew install ddgr
+: 1574386045:0;ddgr Interstellar
+: 1574386045:0;zsh
+: 1574386045:0;cd
+: 1574386045:0;up 2
+: 1574386045:0;cd
+: 1574386045:0;pwd
+: 1574386045:0;lc
+: 1574386045:0;cd Documents/Terminal\ tools
+: 1574386045:0;git clone https://github.com/bartobri/no-more-secrets.git
+: 1574386045:0;cd ./no-more-secrets
+: 1574386045:0;make nms
+: 1574386045:0;make sneakers
+: 1574386045:0;sudo make install
+: 1574386045:0;nms -v
+: 1574386045:0;ls -l | nms
+: 1574386045:0;lc | nms
+: 1574386045:0;z marketing
+: 1574386045:0;lc
+: 1574386045:0;ll
+: 1574386045:0;ll | nms -a
+: 1574386045:0;y start
+: 1574386045:0;wiki Interstellar
+: 1574386045:0;brew install hollywood
+: 1574386045:0;docker pull jess/hollywood
+: 1574386045:0;docker run -it jess/hollywood
+: 1574386045:0;docker run jess/hollywood
+: 1574386045:0;docker run -it jess/hollywood
+: 1574386045:0;hollywood
+: 1574386045:0;docker run -it jess/hollywood
+: 1574386045:0;hollywood
+: 1574386045:0;bash -c "clear && docker exec -it hollywood sh"
+: 1574386045:0;clear && docker exec -it hollywood sh
+: 1574386045:0;bash -c "clear && docker exec -it hollywood sh"
+: 1574386045:0;clear
+: 1574386045:0;z terminal
+: 1574386045:0;cd Documents/Terminal\ tools
+: 1574386045:0;lc
+: 1574386045:0;pwd
+: 1574386045:0;cd Documents/Terminal\ tools
+: 1574386045:0;cd Documents
+: 1574386045:0;lc
+: 1574386045:0;cd TerminalTools
+: 1574386045:0;lc
+: 1574386045:0;chmod -x genact-osx
+: 1574386045:0;./genact-osx
+: 1574386045:0;chmod -x genact-osx
+: 1574386045:0;la
+: 1574386045:0;sudo ./genact-osx
+: 1574386045:0;./genact -h
+: 1574386045:0;git clone https://github.com/yaronn/blessed-contrib.git
+: 1574386045:0;cd blessed-contrib
+: 1574386045:0;npm install
+: 1574386045:0;node ./examples/dashboard.js
+: 1574386045:0;bash -c "clear && docker exec -it hollywood sh"
+: 1574386045:0;node ./examples/dashboard.js
+: 1574386045:0;brew install edex-ui
+: 1574386045:0;brew cask install edex-ui
+: 1574386045:0;clear
+: 1574386045:0;z ~/Sites/typ-v3-marketing-site/
+: 1574386045:0;lc
+: 1574386045:0;cd 'keyboards'
+: 1574386045:0;cd ..
+: 1574386045:0;z marketing
+: 1574386045:0;lc
+: 1574386045:0;cd ..
+: 1574386045:0;cd
+: 1574386045:0;clear
+: 1574386045:0;z marketing
+: 1574386045:0;y
+: 1574386045:0;cd 
+: 1574386045:0;clear
+: 1574386045:0;lc
+: 1574386045:0;cd 'fonts'
+: 1574386045:0;cd
+: 1574386045:0;screen
+: 1574386045:0;screenfetchh
+: 1574386045:0;screenfetch
+: 1574386045:0;clear
+: 1574386045:0;z sites
+: 1574386045:0;lc
+: 1574386045:0;cd typ-v3-employee-portal
+: 1574386045:0;y
+: 1574386045:0;y start
+: 1574386045:0;cd
+: 1574386045:0;z sites
+: 1574386045:0;z ~/Sites/typ-v3-employee-portal/
+: 1574386045:0;clear
+: 1574386045:0;lc
+: 1574386045:0;ls -l | nms
+: 1574386045:0;zzsclear
+: 1574386045:0;zshconfig
+: 1574386045:0;cd
+: 1574386045:0;pwd
+: 1574386045:0;git clone git@github.com:ascii-soup/zsh-url-highlighter.git ~/zsh-stuff/zsh-url-highlighter
+: 1574386045:0;ln -s ~/zsh-stuff/zsh-url-highlighter/url [zsh-syntax-highlighting-dir]/highlighters/url
+: 1574386045:0;ln -s ~/zsh-stuff/zsh-url-highlighter/url /Users/leandro/Documents/TerminalTools/highlighters/url
+: 1574386045:0;z marketing
+: 1574386045:0;brew cask install react-native-debugger
+: 1574386045:0;z marketing
+: 1574386045:0;clear
+: 1574386045:0;ls -l | nms
+: 1574386045:0;lc
+: 1574386045:0;z employee
+: 1574386045:0;y
+: 1574386045:0;y start
+: 1574386045:0;gtop
+: 1574386045:0;pwd
+: 1574386045:0;lc
+: 1574386045:0;cd Do
+: 1574386045:0;cd Documents
+: 1574386045:0;lc
+: 1574386045:0;cd TerminalTools
+: 1574386045:0;lc
+: 1574386045:0;cd blessed-contrib
+: 1574386045:0;lc
+: 1574386045:0;cd examples
+: 1574386045:0;lc
+: 1574386045:0;cd ../
+: 1574386045:0;node ./examples/dashboard.js
+: 1574386045:0;gtop
+: 1574386045:0;cd
+: 1574386045:0;pwd
+: 1574386045:0;go get github.com/go-jira/jira/cmd/jira\
+
+: 1574386045:0;gtop
+: 1574386045:0;clear
+: 1574386045:0;z marketing
+: 1574386045:0;cd
+: 1574386045:0;brew install qt5
+: 1574386045:0;clear
+: 1574386045:0;cd
+: 1574386045:0;export CPPFLAGS="-I/usr/local/opt/qt5/include"
+: 1574386045:0;export LDFLAGS="-L/usr/local/opt/qt5/lib"
+: 1574386045:0;export PATH=/usr/local/opt/qt5/bin:$PATH
+: 1574386045:0;z ~/Documents/TerminalTools/
+: 1574386045:0;lc
+: 1574386045:0;cd custom-macos-cool-retro-term
+: 1574386045:0;qmake && make
+: 1574386045:0;mkdir cool-retro-term.app/Contents/PlugIns
+: 1574386045:0;cp -r qmltermwidget/QMLTermWidget cool-retro-term.app/Contents/PlugIns\
+
+: 1574386045:0;z marketing
+: 1574386045:0;lc
+: 1574386045:0;gcd
+: 1574386045:0;y
+: 1574386045:0;y start
+: 1574386045:0;zshconfig
+: 1574386045:0;cd
+: 1574386045:0;mkdir ~/.jira.d
+: 1574386045:0;cat <<EOM >~/.jira.d/config.yml\
+endpoint: https://thankyoupayroll.atlassian.net\
+EOM
+: 1574386045:0;jira login
+: 1574386045:0;go get github.com/go-jira/jira/cmd/jira
+: 1574386045:0;cd
+: 1574386045:0;go get github.com/go-jira/jira/cmd/jira
+: 1574386045:0;go -v
+: 1574386045:0;jira
+: 1574386045:0;go get github.com/go-jira/jira/cmd/jira
+: 1574386045:0;go get -d -u github.com/go-jira/jira/cmd/jira
+: 1574386045:0;cd $(go env GOPATH)/src/github.com/go-jira/jira/cmd/jira
+: 1574386045:0;go install
+: 1574386045:0;jira
+: 1574386045:0;clear
+: 1574386045:0;cd $(go env GOPATH)/src/github.com/go-jira/jira/cmd/jira
+: 1574386045:0;lc
+: 1574386045:0;cd ../
+: 1574386045:0;lc
+: 1574386045:0;cd cmd
+: 1574386045:0;lc
+: 1574386045:0;cd jira
+: 1574386045:0;lc
+: 1574386045:0;go install
+: 1574386045:0;lc
+: 1574386045:0;cat main.go
+: 1574386045:0;go main.go
+: 1574386045:0;go install
+: 1574386045:0;cd ../../
+: 1574386045:0;lc
+: 1574386045:0;go install
+: 1574386045:0;cd
+: 1574386045:0;brew install go-jira
+: 1574386045:0;jira login
+: 1574386045:0;z marketing
+: 1574386045:0;jira ls
+: 1574386045:0;go get -v github.com/mikepea/go-jira-ui/jira-ui
+: 1574386045:0;export GOBIN=$GOPATH/bin
+: 1574386045:0;jira -h
+: 1574386045:0;jira mine
+: 1574386045:0;jira -u
+: 1574386045:0;jira login
+: 1574386045:0;jira
+: 1574386045:0;jira mine
+: 1574386045:0;jira list -p "V2.5 Group Admin"
+: 1574386045:0;jira mine
+: 1574386045:0;jira list
+: 1574386045:0;jira
+: 1574386045:0;jira-ui
+: 1574386045:0;jira
+: 1574386045:0;env | grep JIRA
+: 1574386045:0;jira print-project
+: 1574386045:0;jira list
+: 1574386045:0;jira --help
+: 1574386045:0;jira session
+: 1574386045:0;jira login
+: 1574386045:0;jira -u
+: 1574386045:0;jira session
+: 1574386045:0;jira -u
+: 1574386045:0;jira -u "Leandro Rodrigues"
+: 1574386045:0;jira login
+: 1574386045:0;go get -v github.com/mikepea/go-jira-ui/jira-ui
+: 1574386045:0;jira-ui
+: 1574386045:0;alias
+: 1574386045:0;history
+: 1574386045:0;clear
+: 1574386045:0;z marketing
+: 1574386045:0;zshconfig
+: 1574386045:0;gem update colorls
+: 1574386045:0;lc
+: 1574386045:0;ll
+: 1574386045:0;ll | nms -a
+: 1574386045:0;clear
+: 1574386045:0;y start
+: 1574386045:0;gst
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;y start
+: 1574386045:0;weather
+: 1574386045:0;y start
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;y cz
+: 1574386045:0;gp
+: 1574386045:0;y stage:local
+: 1574386045:0;git checkout master
+: 1574386045:0;y
+: 1574386045:0;y test
+: 1574386045:0;y start
+: 1574386045:0;cd
+: 1574386045:0;go get -u github.com/erroneousboat/slack-term
+: 1574386045:0;cd $GOPATH/src/github.com/erroneousboat/slack-term
+: 1574386045:0;cd /Users/leandro/go/src/github.com/erroneousboat/slack-term
+: 1574386045:0;go install .
+: 1574386045:0;curl -s "https://slack.com/api/oauth.access?client_id=91899392594.382712253827&client_secret=c7986be41b6ddb478041d1848dad5f6e&code=5217856871.833945071430.cc68d9591c35993a41cd19429c1ba7ba010439ee03d0f21533f07733a17d5265"
+: 1574386045:0;cd Documents
+: 1574386045:0;mv slack-term /usr/local/bin
+: 1574386045:0;slack-term
+: 1574386045:0;cd
+: 1574386045:0;slack-term
+: 1574386045:0;zsh
+: 1574386045:0;slack-term
+: 1574386045:0;zshconfig
+: 1574386045:0;clear
+: 1574386045:0;z marketing
+: 1574386045:0;lc
+: 1574386045:0;clear
+: 1574386045:0;y
+: 1574386045:0;screenfetch
+: 1574386045:0;npm install -g dockly
+: 1574386045:0;brew install neofetch
+: 1574386045:0;g blog
+: 1574386045:0;cd /Users/leandro/Documents/TerminalTools
+: 1574386045:0;lc
+: 1574386045:0;mv gstatus.sj /usr/local/bin
+: 1574386045:0;mv gstatus.sh /usr/local/bin
+: 1574386045:0;z marketing
+: 1574386045:0;gstatus
+: 1574386045:0;open ~/bin
+: 1574386045:0;gstatus
+: 1574386045:0;neofetch
+: 1574386045:0;zshconfig
+: 1574386045:0;cd
+: 1574386045:0;brew install ncmpcpp
+: 1574386045:0;brew install mopidy mopidy-spotify
+: 1574386045:0;brew tap mopidy/mopidy\
+
+: 1574386045:0;brew install mopidy
+: 1574386045:0;brew install mopidy-spotify
+: 1574386045:0;mopidy
+: 1574386045:0;brew install mopidy
+: 1574386045:0;python
+: 1574386045:0;export PYTHONPATH=$(brew --prefix)/lib/python2.7/site-packages:$PYTHONPATH
+: 1574386045:0;source zsh
+: 1574386045:0;zsh
+: 1574386045:0;brew search mopidy
+: 1574386045:0;mopidy
+: 1574386045:0;brew uninstall --ignore-dependencies gst-python pygobject3
+: 1574386045:0;brew untap mopidy/mopidy
+: 1574386045:0;brew tap troyxmccall/mopidy
+: 1574386045:0;brew install troyxmccall/mopidy/gst-python@2 troyxmccall/mopidy/pygobject3@2 troyxmccall/mopidy/mopidy troyxmccall/mopidy/mopidy-spotify
+: 1574386045:0;mopidy
+: 1574386045:0;clear
+: 1574386045:0;zshrc
+: 1574386045:0;defaults delete com.googlecode.iterm2
+: 1574386045:0;slack-term
+: 1574386045:0;brew search slack-term
+: 1574386045:0;z ~/Documents/TerminalTools/
+: 1574386045:0;lc
+: 1574386045:0;./slack-term-darwin-amd64
+: 1574386045:0;sudo ./slack-term-darwin-amd64
+: 1574386045:0;brew install ninja
+: 1574386045:0;lc
+: 1574386045:0;cd wordgrinder-master
+: 1574386045:0;lc
+: 1574386045:0;make
+: 1574386045:0;sudo make install wordgrinder=/usr
+: 1574386045:0;wordgrinder
+: 1574386045:0;cd
+: 1574386045:0;z ~/Sites/typ-v3-employee-portal/
+: 1574386045:0;lc
+: 1574386045:0;git clone git://github.com/scmbreeze/scm_breeze.git ~/.scm_breeze ~/.scm_breeze/install.sh
+: 1574386045:0;git clone git://github.com/scmbreeze/scm_breeze.git ~/.scm_breeze
+: 1574386045:0;~/.scm_breeze/install.sh
+: 1574386045:0;source ~/.zshrc
+: 1574386045:0;z employee
+: 1574386045:0;gs
+: 1574386045:0;git pull
+: 1574386045:0;brew tap sachaos/todoist
+: 1574386045:0;brew install todoist
+: 1574386045:0;clear
+: 1574386045:0;pwd
+: 1574386045:0;todoist
+: 1574386045:0;todoist sync
+: 1574386045:0;todoist list
+: 1574386045:0;todoist sync
+: 1574386045:0;todoist list
+: 1574386045:0;todoist projects
+: 1574386045:0;z ~/Documents/TerminalTools/
+: 1574386045:0;lc
+: 1574386045:0;tar -xvf spotify-cli_1.0.1_Darwin_x86_64.tar spotify
+: 1574386045:0;tar -xvf spotify-cli_1.0.2_Darwin_x86_64.tar spotify
+: 1574386045:0;lc
+: 1574386045:0;cd spotify
+: 1574386045:0;./spotify-cli
+: 1574386045:0;z ~/Sites/typ-v3-employee-portal/
+: 1574386045:0;y
+: 1574386045:0;zshrc
+: 1574386045:0;source ~/.zshrc
+: 1574386045:0;z ~/Documents/TerminalTools/spotify/
+: 1574386045:0;lc
+: 1574386045:0;./spotify-cli
+: 1574386045:0;source ~/.zshrc
+: 1574386045:0;z ~/Documents/TerminalTools/spotify/
+: 1574386045:0;./spotify-cli
+: 1574386045:0;cd ../
+: 1574386045:0;lc
+: 1574386045:0;tar -xvf spotify-cli_1.0.2_Darwin_x86_64.tar.gz spotify
+: 1574386045:0;pc
+: 1574386045:0;pwd
+: 1574386045:0;lc
+: 1574386045:0;cd spotify-cli-master
+: 1574386045:0;lc
+: 1574386045:0;make
+: 1574386045:0;make build
+: 1574386045:0;make test
+: 1574386045:0;make
+: 1574386045:0;go get -u github.com/gobuffalo/packr/...
+: 1574386045:0;make build
+: 1574386045:0;cd
+: 1574386045:0;brew search mpd ncmpcpp
+: 1574386045:0;brew instal mpd
+: 1574386045:0;xcode-select --install
+: 1574386045:0;brew upgrade
+: 1574386045:0;brew tap mopidy/mopidy
+: 1574386045:0;brew uninstall --ignore-dependencies gst-python pygobject3
+: 1574386045:0;brew install mopidy
+: 1574386045:0;brew install mopidy/mopidy/mopidy
+: 1574386045:0;brew reinstall mopidy/mopidy/mopidy
+: 1574386045:0;brew services start mopidy/mopidy/mopidy
+: 1574386045:0;mopidy
+: 1574386045:0;brew install python@2
+: 1574386045:0;brew install gst-plugins-base --with-libogg --with-libvorbis --with-opus --with-theora
+: 1574386045:0;zshrc
+: 1574386045:0;python -v
+: 1574386045:0;python -help
+: 1574386045:0;python -h
+: 1574386045:0;python -V
+: 1574386045:0;brew uninstall mopidy/mopidy/mopidy
+: 1574386045:0;ln -sfv /usr/local/opt/mopidy/*.plist ~/Library/LaunchAgents
+: 1574386045:0;brew uninstall --ignore-dependencies gst-python pygobject3
+: 1574386045:0;brew edit gst-python
+: 1574386045:0;brew uninstall --ignore-dependencies gst-python pygobject3
+: 1574386045:0;brew untap mopidy/mopidy
+: 1574386045:0;brew search mopidy
+: 1574386045:0;mopidy
+: 1574386045:0;mopidy -v
+: 1574386045:0;zshrc
+: 1574386045:0;gtop
+: 1574386045:0;alias
+: 1574386045:0;cd TerminalTools
+: 1574386045:0;lc
+: 1574386045:0;cd htop-2.2.0
+: 1574386045:0;./install.sh
+: 1574386045:0;cat README
+: 1574386045:0;make install
+: 1574386045:0;brew install htop
+: 1574386045:0;pip install rebound-cli
+: 1574386045:0;htop
+: 1574386045:0;z employee
+: 1574386045:0;lc
+: 1574386045:0;cd ../
+: 1574386045:0;lc
+: 1574386045:0;cd typ-v3-api-gateway
+: 1574386045:0;y
+: 1574386045:0;XCode
+: 1574386045:0;brew search python
+: 1574386045:0;ncmpcpp
+: 1574386045:0;brew install mpd
+: 1574386045:0;cd ~ && mkdir .mpd && cd .mpd && mkdir playlists && touch mpd.conf mpd.db mpd.log mpd.pid mpdstate
+: 1574386045:0;whoami
+: 1574386045:0;mpd
+: 1574386045:0;ncmpcpp
+: 1574386045:0;clear
+: 1574386045:0;lc
+: 1574386045:0;cd
+: 1574386045:0;pwd
+: 1574386045:0;z employee
+: 1574386045:0;z gateway
+: 1574386045:0;y
+: 1574386045:0;source ~/.zshrc
+: 1574386045:0;y add global pm2
+: 1574386045:0;clear
+: 1574386045:0;brew install Rigellute/tap/spotify-tui
+: 1574386045:0;zshrc
+: 1574386045:0;spt
+: 1574386045:0;clear
+: 1574386045:0;:q
+: 1574386045:0;spt
+: 1574386045:0;z gateway
+: 1574386045:0;clear
+: 1574386045:0;xcode-select --install
+: 1574386045:0;z ~/Sites/typ-v3-employee-portal/
+: 1574386045:0;z ~/Sites/typ-v3-api-gateway/
+: 1574386045:0;y add global pm2
+: 1574386045:0;yarn add global pm2
+: 1574386045:0;source ~/.zshrc
+: 1574386045:0;z ~/Sites/typ-v3-api-gateway/
+: 1574386045:0;yarn add global pm2
+: 1574386045:0;y
+: 1574386045:0;pm2 startup
+: 1574386045:0;npm install pm2 -g
+: 1574386045:0;pm2 startup
+: 1574386045:0;sudo env PATH=$PATH:/usr/local/Cellar/node/12.12.0/bin /usr/local/lib/node_modules/pm2/bin/pm2 startup launchd -u leandro --hp /Users/leandro
+: 1574386045:0;pm2 monit
+: 1574386045:0;z TerminalTools
+: 1574386045:0;lc
+: 1574386045:0;cd
+: 1574386045:0;brew install mutt
+: 1574386045:0;y start
+: 1574386045:0;pm2 monit
+: 1574386045:0;mutt
+: 1574386045:0;pm2 list
+: 1574386045:0;pm2 stop
+: 1574386045:0;pm2 startup
+: 1574386045:0;launchd
+: 1574386045:0;launchd -h
+: 1574386045:0;htop
+: 1574386045:0;y
+: 1574386045:0;brew tap homebrew/dupes
+: 1574386045:0;brew install ncurses
+: 1574386045:0;brew doctor
+: 1574386045:0;brew install gst-python pygobject3d
+: 1574386045:0;gem install sup
+: 1574386045:0;sup-config
+: 1574386045:0;clear
+: 1574386045:0;launchd list
+: 1574386045:0;launchctl list
+: 1574386045:0;htop
+: 1574386045:0;pm2 monit
+: 1574386045:0;pm2 startup
+: 1574386045:0;y start
+: 1574386045:0;cd
+: 1574386045:0;z ~/Documents/TerminalTools/
+: 1574386045:0;git clone https://github.com/stark/color-scripts
+: 1574386045:0;cd color-scripts
+: 1574386045:0;lc
+: 1574386045:0;cat README
+: 1574386045:0;lc
+: 1574386045:0;cat README.md
+: 1574386045:0;lc
+: 1574386045:0;cd color-scripts
+: 1574386045:0;lc
+: 1574386045:0;./pukeskull
+: 1574386045:0;lc
+: 1574386045:0;./hex
+: 1574386045:0;clear
+: 1574386045:0;z gateway
+: 1574386045:0;clear
+: 1574386045:0;y
+: 1574386045:0;y start
+: 1574386045:0;z employee
+: 1574386045:0;y start
+: 1574386045:0;npm install -g react-devtools@^3\
+
+: 1574386045:0;brew install feh
+: 1574386045:0;brew cask install xquartz
+: 1574386045:0;brew install feh
+: 1574386045:0;feh
+: 1574386045:0;feh -h
+: 1574386045:0;man feh
+: 1574386045:0;	feh
+: 1574386045:0;echo $DISPLAY
+: 1574386045:0;react-devtools
+: 1574386045:0;y start
+: 1574386045:0;brew install mpv
+: 1574386045:0;brew cask install amethyst
+: 1574386045:0;brew install fftw cmake
+: 1574386045:0;brew tap homebrew/dupes
+: 1574386045:0;brew install homebrew/dupes
+: 1574386045:0;brew install ncurses
+: 1574386045:0;cd
+: 1574386045:0;lc
+: 1574386045:0;cd TerminalTools
+: 1574386045:0;lc
+: 1574386045:0;cd cli-visualizer
+: 1574386045:0;./install.sh
+: 1574386045:0;brew install mpd
+: 1574386045:0;mpd
+: 1574386045:0;audio_output {\
+	type                    "fifo"\
+	name                    "my_fifo"\
+	path                    "/tmp/mpd.fifo"\
+	format            
+: 1574386045:0;cp /usr/share/doc/mpd/mpdconf.example ~/.config/mpd/mpd.conf
+: 1574386045:0;vis
+: 1574386045:0;mkdir -p ~/.mpd/playlists
+: 1574386045:0;touch ~/.mpd/{mpd.conf,mpd.db,mpd.log,mpd.pid,mpdstate}
+: 1574386045:0;ls ~/.mpd/
+: 1574386045:0;mpd.conf mpd.db mpd.log mpd.pid mpdstate playlists
+: 1574386045:0;mkdir ~/.ncmpcpp/
+: 1574386045:0;touch ~/.ncmpcpp/error.log
+: 1574386045:0;touch ~/.ncmpcpp/config
+: 1574386045:0;mpd
+: 1574386045:0;mpd --kill
+: 1574386045:0;mp
+: 1574386045:0;mpd
+: 1574386045:0;ncmpcpp
+: 1574386045:0;mopidy -v
+: 1574386045:0;brew edit gst-python
+: 1574386045:0;brew uninstall --ignore-dependencies gst-python pygobject3
+: 1574386045:0;brew untap mopidy/mopidy
+: 1574386045:0;brew tap troyxmccall/mopidy
+: 1574386045:0;brew install troyxmccall/mopidy/gst-python@2 troyxmccall/mopidy/pygobject3@2 troyxmccall/mopidy/mopidy troyxmccall/mopidy/mopidy-spotify
+: 1574386045:0;mopidy -v
+: 1574386045:0;brew uninstall mopidy
+: 1574386045:0;brew search mopidy
+: 1574386045:0;mopidy -v
+: 1574386045:0;brew install troyxmccall/mopidy/gst-python@2 troyxmccall/mopidy/pygobject3@2 troyxmccall/mopidy/mopidy troyxmccall/mopidy/mopidy-spotify
+: 1574386045:0;mopidy -v
+: 1574386045:0;brew install troyxmccall/mopidy/gst-python@2 troyxmccall/mopidy/pygobject3@2 troyxmccall/mopidy/mopidy troyxmccall/mopidy/mopidy-spotify
+: 1574386045:0;brew link pygobject3@2
+: 1574386045:0;brew unlink pygobject3
+: 1574386045:0;brew link pygobject3@2
+: 1574386045:0;mopidy -v
+: 1574386045:0;brew info mopidy
+: 1574386045:0;pip install Mopidy-Spotify-Tunigo
+: 1574386045:0;brew info libspotify
+: 1574386045:0;mopidy
+: 1574386045:0;mpd --kill
+: 1574386045:0;mopidy
+: 1574386045:0;brew services start mopidy
+: 1574386045:0;brew services restart mopidy
+: 1574386045:0;ncmpcpp
+: 1574386045:0;brew install ranger
+: 1574386045:0;ranger
+: 1574386045:0;brew install rxvt-unicode
+: 1574386045:0;urxvt
+: 1574386045:0;ranger
+: 1574386045:0;cd
+: 1574386045:0;git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+: 1574386045:0;ranger --help
+: 1574386045:0;ranger --copy-config=rc
+: 1574386045:0;ranger
+: 1574386045:0;ranger --copy-config=rifle.conf
+: 1574386045:0;ranger --copy-config=rifle
+: 1574386045:0;zshcrc
+: 1574386045:0;zshrc
+: 1574386045:0;which code
+: 1574386045:0;which vscode
+: 1574386045:0;code --help
+: 1574386045:0;code
+: 1574386045:0;git config --global core.editor "code --wait"
+: 1574386045:0;code -help
+: 1574386045:0;code -h
+: 1574386045:0;which code
+: 1574386045:0;z ~/Sites/typ-v3-api-gateway/
+: 1574386045:0;y
+: 1574386045:0;htop
+: 1574386045:0;y start
+: 1574386045:0;z employee
+: 1574386045:0;y start
+: 1574386045:0;react-devtools
+: 1574386045:0;npm i react-devtools
+: 1574386045:0;npm audit fix
+: 1574386045:0;react-devtools
+: 1574386045:0;htop
+: 1574386045:0;pwd
+: 1574386045:0;cd Application
+: 1574386045:0;open -n -a cool-retro-term~
+: 1574386045:0;z TerminalTools
+: 1574386045:0;open -n -a cool-retro-term
+: 1574386045:0;htop
+: 1574386045:0;zshrc
+: 1574386045:0;react-devtools
+: 1574386045:0;clear
+: 1574386045:0;brew install unimatrix
+: 1574386045:0;pip install git+https://github.com/will8211/unimatrix.git
+: 1574386045:0;unimatrix
+: 1574386045:0;clear
+: 1574386045:0;y start
+: 1574386045:0;react-devtools
+: 1574386045:0;y start
+: 1574386045:0;ncmpcpp
+: 1574386045:0;y start
+: 1574386045:0;react-devtools
+: 1574386045:0;z gateway
+: 1574386045:0;ranger
+: 1574386045:0;ncmpcpp
+: 1574386045:0;mpd
+: 1574386045:0;mopidy
+: 1574386045:0;ncmpcpp
+: 1574386045:0;y start
+: 1574386045:0;ln -sfv /usr/local/opt/mopidy/*.plist ~/Library/LaunchAgents
+: 1574386045:0;launchctl load ~/Library/LaunchAgents/homebrew.mopidy.mopidy.plist
+: 1574386045:0;clear
+: 1574386045:0;ncmpcpp
+: 1574386045:0;htop
+: 1574386045:0;ncmpcpp
+: 1574386045:0;gtop
+: 1574386045:0;htop
+: 1574386045:0;ncmpcpp
+: 1574386045:0;vis
+: 1574386045:0;clear
+: 1574386045:0;pwd
+: 1574386045:0;clear
+: 1574386045:0;ncmpcpp
+: 1574386045:0;neofetch
+: 1574386045:0;htop
+: 1574386045:0;ncmpcpp
+: 1574386045:0;vis
+: 1574386045:0;vis -h
+: 1574386045:0;vis
+: 1574386045:0;zshrc
+: 1574386045:0;vis
+: 1574386045:0;z employee
+: 1574386045:0;y start
+: 1574386045:0;ncmpcpp
+: 1574386045:0;y start
+: 1574386045:0;z gateway
+: 1574386045:0;y start
+: 1574386045:0;OA
+: 1574386045:0;y start
+: 1574386045:0;y
+: 1574386045:0;y start
+: 1574386045:0;clear
+: 1574386045:0;y start
+: 1574386045:0;ncmpcpp
+: 1574386045:0;brew install cmus
+: 1574386045:0;cmus
+: 1574386045:0;ncmpcpp
+: 1574386045:0;react-devtools
+: 1574386045:0;clear
+: 1574386045:0;zshrc
+: 1574386045:0;pwd
+: 1574386045:0;cd .hyper_plugins
+: 1574386045:0;touch .hyper-sync-settings.json
+: 1574386045:0;pwd
+: 1574386045:0;z gateway
+: 1574386045:0;hyper install hyper-hide-title
+: 1574386045:0;zsh
+: 1574386045:0;clear
+: 1574386045:0;lc
+: 1574386045:0;neofetch
+: 1574386045:0;clear
+: 1574386045:0;unimatrix
+: 1574386045:0;clear
+: 1574386045:0;z employee
+: 1574386045:0;gst
+: 1574386045:0;alias
+: 1574386045:0;neofetch
+: 1574386045:0;unimatrix
+: 1574386045:0;ducky "unimatrix missing chars"
+: 1574386045:0;locale -a
+: 1574386045:0;unimatrix
+: 1574386045:0;z marketing
+: 1574386045:0;htop
+: 1574386045:0;z employee
+: 1574386045:0;lc
+: 1574386045:0;zshrc
+: 1574386045:0;pwd
+: 1574386045:0;lc
+: 1574386045:0;clear
+: 1574386045:0;htop
+: 1574386045:0;neofetch
+: 1574386045:0;htop
+: 1574386045:0;z marketing
+: 1574386045:0;gst
+: 1574386045:0;ranger
+: 1574386045:0;htop
+: 1574386045:0;ranger
+: 1574386045:0;ncmpcpp
+: 1574386045:0;zsh
+: 1574386045:0;ranger
+: 1574386045:0;htop
+: 1574386045:0;ranger
+: 1574386045:0;ncmpcpp
+: 1574386045:0;brew install jrnl
+: 1574386045:0;z marketing
+: 1574386045:0;alias
+: 1574386045:0;zshrc
+: 1574386045:0;zsh
+: 1574386045:0;zsh
+: 1574386045:0;exit
+: 1574386045:0;exit
+: 1574107191:0;awk -W version
+: 1574107281:0;brew uninstall zplug
+: 1574107382:0;zshrc
+: 1574107391:0;zsh
+: 1574107400:0;alias
+: 1574107413:0;zsh
+: 1574107417:0;alias
+: 1574107770:0;npm install gtop -g
+: 1574107813:0;gtop
+: 1574107848:0;gs
+: 1574107867:0;unalias gtop
+: 1574107869:0;alias
+: 1574107875:0;gtop
+: 1574107943:0;y start
+: 1574108463:0;y
+: 1574108559:0;y start
+: 1574109392:0;cd
+: 1574109403:0;brew install grv
+: 1574109407:0;z marketing
+: 1574109409:0;y start
+: 1574109501:0;grv
+: 1574109510:0;z ~/Sites/typ-v3-marketing-site/
+: 1574109512:0;grv
+: 1574109520:0;unalias grv
+: 1574109521:0;grv
+: 1574110767:0;y cz
+: 1574110870:0;gp
+: 1574111561:0;clewar
+: 1574111562:0;clear
+: 1574111565:0;ncmpcpp
+: 1574111583:0;clear
+: 1574112263:0;brew install neomutt
+: 1574112339:0;neomutt
+: 1574114340:0;brew tap homebrew/cask-fonts
+: 1574114356:0;brew cask install font-victor-mono
+: 1574114457:0;echo "==="
+: 1574114762:0;y start
+: 1574115141:0;y cz
+: 1574115187:0;gp
+: 1574115197:0;gst
+: 1574115512:0;ncmpcpp
+: 1574115581:0;pip install psutil
+: 1574115596:0;zshrc
+: 1574115770:0;zsh
+: 1574116221:0;gst
+: 1574116226:0;y cz
+: 1574116254:0;gp
+: 1574117057:0;brew cleanup
+: 1574117709:0;pu
+: 1574117858:0;source ~/.zshrc
+: 1574117886:0;update
+: 1574117903:0;ll
+: 1574117908:0;which ll
+: 1574117924:0;unalias ll
+: 1574117926:0;ll
+: 1574117936:0;update
+: 1574117946:0;alias
+: 1574117949:0;which ll
+: 1574117951:0;ll
+: 1574117953:0;lc
+: 1574118059:0;update
+: 1574118306:0;alias
+: 1574118635:0;zplug list
+: 1574118744:0;brew list
+: 1574118809:0;brew uninstall go-jira
+: 1574120185:0;gtop
+: 1574120328:0;mdfind kMDItemKind="Alias"
+: 1574120591:0;curl -L https://zulu.molovo.co/install | zsh && zsh
+: 1574120895:0;alias
+: 1574120999:0;cd $BASH_IT
+: 1574121182:0;update
+: 1574121256:0;rm -rf "${ZULU_DIR:-"${ZDOTDIR:-$HOME}/.zulu"}"
+: 1574121280:0;update
+: 1574121306:0;cd
+: 1574121309:0;pwd
+: 1574121315:0;source ~/.zshrc
+: 1574121321:0;alias
+: 1574121629:0;source ~/.zshrc
+: 1574121637:0;alias
+: 1574121832:0;ll
+: 1574121838:0;z marketing
+: 1574121883:0;htop
+: 1574121887:0;ncmpcpp
+: 1574121891:0;clear
+: 1574122109:0;brew install coreutils
+: 1574122487:0;brew cask install maccy
+: 1574122762:0;mackup -h
+: 1574122775:0;mackup list
+: 1574122780:0;clear
+: 1574122783:0;mackup -h
+: 1574123021:0;BREW_PREFIX=$(brew --prefix)
+: 1574123027:0;ln -s "${BREW_PREFIX}/bin/gsha256sum" "${BREW_PREFIX}/bin/sha256sum"
+: 1574123096:0;brew install vim --with-override-system-vi
+: 1574123107:0;brew install vim
+: 1574123201:0;brew install screen
+: 1574123213:0;zshrc
+: 1574123342:0;brew tap bramstein/webfonttools
+: 1574123542:0;brew 'mas'
+: 1574123762:0;y
+: 1574123780:0;y add react-hook-form
+: 1574124054:0;y start
+: 1574126633:0;ys tart
+: 1574126636:0;u start
+: 1574126638:0;y start
+: 1574127172:0;mackup backup
+: 1574127232:0;y start
+: 1574130233:0;y build:styles
+: 1574130238:0;y start
+: 1574130282:0;y build:styles
+: 1574130285:0;y start
+: 1574132565:0;ncmpcpp
+: 1574278578:0;y build:styles
+: 1574278917:0;y start
+: 1574284018:0;y add enzyme
+: 1574284137:0;github
+: 1574284159:0;grv
+: 1574284167:0;z marketing
+: 1574284168:0;grv
+: 1574284178:0;which grv
+: 1574284185:0;unalias grv
+: 1574284187:0;grv
+: 1574285238:0;y test
+: 1574285290:0;clear
+: 1574285306:0;y add enzyme-to-json -D
+: 1574285322:0;clear
+: 1574285336:0;neofetch
+: 1574285342:0;clear
+: 1574285366:0;y test
+: 1574285484:0;y add enzyme-adapter-react-16 -D
+: 1574285539:0;y test
+: 1574285910:0;y add sinon -D
+: 1574286424:0;y start
+: 1574286477:0;y test
+: 1574286910:0;clear
+: 1574286913:0;y test
+: 1574287682:0;y jest
+: 1574287737:0;y test
+: 1574287970:0;y jest -u
+: 1574288030:0;y test
+: 1574288106:0;y jest -u
+: 1574288131:0;y test
+: 1574288268:0;y jest -u
+: 1574288278:0;y test
+: 1574288692:0;y start
+: 1574289106:0;y test
+: 1574289315:0;y jest -u
+: 1574289327:0;y test
+: 1574289368:0;y jest -u
+: 1574289408:0;y test
+: 1574289664:0;y start
+: 1574289722:0;y test
+: 1574289766:0;y jest -u
+: 1574290069:0;y
+: 1574290107:0;y test
+: 1574290333:0;clear
+: 1574290335:0;y start
+: 1574290405:0;y jest -u
+: 1574290685:0;y ls react
+: 1574290689:0;npm ls react
+: 1574290730:0;y
+: 1574290751:0;npm ls react
+: 1574290841:0;y
+: 1574292295:0;y test
+: 1574292381:0;npm ls react
+: 1574293402:0;y ls react-dom
+: 1574293408:0;npm ls react-dom
+: 1574293509:0;npm ls react
+: 1574293528:0;y
+: 1574293533:0;y st5art
+: 1574293536:0;y start
+: 1574293611:0;y test
+: 1574293765:0;y jest -u
+: 1574293779:0;y test
+: 1574293854:0;y
+: 1574293912:0;y test
+: 1574293955:0;y
+: 1574293974:0;y test
+: 1574293997:0;npm ls react
+: 1574294278:0;y test
+: 1574295273:0;y jest -u
+: 1574295912:0;yarn add @testing-library/react -D
+: 1574296069:0;y test
+: 1574298293:0;y start
+: 1574298648:0;y test
+: 1574299919:0;weather
+: 1574301377:0;y
+: 1574301579:0;y test
+: 1574301642:0;y
+: 1574301772:0;y test
+: 1574302115:0;y
+: 1574302319:0;y test
+: 1574306389:0;y teswt
+: 1574306393:0;y test
+: 1574363837:0;neofetch
+: 1574364073:0;pip3 install --user pywal
+: 1574364154:0;zshrc
+: 1574364298:0;z marketing
+: 1574364602:0;wal -i /Users/leandro/Pictures/tokyo.jpg
+: 1574364613:0;pip3 install --user pywal
+: 1574364656:0;pip3 install pywall
+: 1574364815:0;brew install imagemagick
+: 1574364871:0;brew upgrade imagemagick
+: 1574364895:0;brew install pidof
+: 1574364905:0;feh
+: 1574364925:0;q
+: 1574364925:0;Ãƒ§q
+: 1574364937:0;cd
+: 1574364951:0;printf "%b" "\033]11;#ff0000\007"
+: 1574364962:0;xrdb -remove *
+: 1574364965:0;printf "%b" "\033]11;#ff0000\007"
+: 1574364970:0;which printf
+: 1574364992:0;wal
+: 1574365022:0;z ~/Documents/TerminalTools/
+: 1574365029:0;git clone https://github.com/dylanaraps/pywal
+: 1574365059:0;cd pywal
+: 1574365069:0;pip3 install --user .
+: 1574365109:0;zshrc
+: 1574365152:0;wal -i /Users/leandro/Pictures/tokyo.jpg
+: 1574365927:0;git clone https://github.com/zzzeyez/pecan.git "$HOME/Library/Application Support/Ãƒ¼bersicht/widgets/pecan"
+: 1574366147:0;zshrc
+: 1574366164:0;ln -s "${HOME}/Library/Application Support/Ãƒ¼bersicht/widgets/pecan/pecan-style" "/usr/local/bin/pecan-style"
+: 1574366181:0;pecan-style --load default
+: 1574366193:0;pecan-style --help
+: 1574366211:0;pecan-style -ls
+: 1574366219:0;pecan-style --help
+: 1574366231:0;pecan-style -p sunset
+: 1574366258:0;pecan-style -ls
+: 1574366273:0;pecan-style -p developer
+: 1574366282:0;pecan-style --help
+: 1574366294:0;pecan-style -l developer
+: 1574366320:0;brew install ifstat
+: 1574366354:0;brew install sassc
+: 1574366375:0;bash "~/Library/Application Support/Ãƒ¼bersicht/widgets/pecan/wal-set"
+: 1574366705:0;bash "wal-set"
+: 1574366724:0;clear
+: 1574366740:0;brew tap koekeishiya/formulae
+: 1574366751:0;brew install chunkwm
+: 1574367215:0;pecan-style -l developer
+: 1574367258:0;sed -i '' "s/%H/%I/g" "${HOME}/Library/Application Support/Ãƒ¼bersicht/widgets/pecan/clock.coffee"
+: 1574367783:0;pecan-style -l developer
+: 1574368030:0;gtop
+: 1574368041:0;z ~/Sites/typ-v3-marketing-site/
+: 1574368120:0;neofetch
+: 1574371229:0;y test
+: 1574371323:0;unimatrix
+: 1574371966:0;y test
+: 1574372034:0;googler
+: 1574372053:0;brew install googler
+: 1574372104:0;googler -N
+: 1574372185:0;googler -N Brazil
+: 1574372901:0;npm install --global purer-prompt
+: 1574372915:0;zshrc
+: 1574372940:0;update
+: 1574372961:0;clear
+: 1574372965:0;z ~/Sites/typ-v3-marketing-site/
+: 1574372971:0;lc
+: 1574373015:0;clear
+: 1574373017:0;weather
+: 1574373050:0;htop
+: 1574373077:0;zshrc
+: 1574373089:0;update
+: 1574373597:0;y test
+: 1574375279:0;zshrc
+: 1574375557:0;source ~/.zshrc
+: 1574375573:0;alias
+: 1574375604:0;stfu
+: 1574376159:0;update
+: 1574376185:0;cleanup
+: 1574376310:0;emptytrash
+: 1574376333:0;sudo emptytrash
+: 1574376343:0;_ emptytrash
+: 1574376415:0;cd .dotfiles
+: 1574376417:0;lc
+: 1574376845:0;./macos.sh
+: 1574376854:0;_ ./macos.sh
+: 1574376895:0;sudo sh ./macos.sh
+: 1574376949:0;chmod +x macos.sh
+: 1574376954:0;_ ./macos.sh
+: 1574377028:0;alias
+: 1574377038:0;system
+: 1574377041:0;alias
+: 1574377047:0;system-update
+: 1574377084:0;clear
+: 1574377092:0;y
+: 1574377120:0;stfu
+: 1574377163:0;pumpitup
+: 1574380073:0;lc
+: 1574380079:0;cd .dotfiles
+: 1574380081:0;lc
+: 1574380088:0;code macos.sh
+: 1574380356:0;rm ~/Library/Preferences/com.apple.finder.plist
+: 1574380375:0;rm ~/Library/Preferences/com.apple.sidebarlists.plist
+: 1574380440:0;afk
+: 1574380587:0;sudo killall finder
+: 1574380598:0;sudo killall Finder
+: 1574380643:0;killall Finder
+: 1574380649:0;htop
+: 1574380776:0;cd ~/Library/Preferences
+: 1574380778:0;lc
+: 1574380874:0;sudo reboot
+: 1574381622:0;clear
+: 1574381751:0;htop
+: 1574381755:0;clear
+: 1574382046:0;htop
+: 1574382061:0;zshrc
+: 1574382102:0;clear
+: 1574382108:0;z ~/Sites/typ-v3-marketing-site/
+: 1574382775:0;defaults write com.apple.finder AppleShowAllFiles YES
+: 1574382997:0;brew cask install openinterminal-lite
+: 1574383153:0;brew cask install openinterminal
+: 1574383502:0;brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package quicklookase qlvideo
+: 1574383755:0;clearr
+: 1574383758:0;clear
+: 1574383762:0;y test
+: 1574383809:0;clear
+: 1574383845:0;y test
+: 1574383866:0;brew tap bashdot/tap
+: 1574383935:0;npm ls react
+: 1574384027:0;y
+: 1574384065:0;y test
+: 1574384091:0;npm ls react
+: 1574384142:0;brew install bashdot
+: 1574384217:0;mkd default
+: 1574384236:0;echo 'set -o vi' > default/env
+: 1574384423:0;bashdot install default
+: 1574384709:0;cd ~/.dotfiles
+: 1574384715:0;git init
+: 1574384724:0;git submodule add https://github.com/anishathalye/dotbot
+: 1574384734:0;git config -f .gitmodules submodule.dotbot.ignore dirty
+: 1574384741:0;cp dotbot/tools/git-submodule/install .
+: 1574384749:0;touch install.conf.yaml
+: 1574384813:0;brew install twpayne/taps/chezmoi
+: 1574384847:0;chezmoi init
+: 1574384879:0;chezmoi add ~/.zshrc
+: 1574384939:0;gst
+: 1574384953:0;cd
+: 1574384959:0;lc
+: 1574385093:0;cd Ëƒ¼/.local
+: 1574385141:0;cd ~/.local
+: 1574385142:0;lc
+: 1574385175:0;cd share/chezmoi
+: 1574385176:0;lc
+: 1574385182:0;open .
+: 1574385398:0;brew uninstall mutt
+: 1574385664:0;cd
+: 1574385667:0;ll
+: 1574385669:0;lc
+: 1574385687:0;chezmoi add ~/.zshrc
+: 1574385724:0;chezmoi add ~/z.sh
+: 1574385743:0;chezmoi add ~/.hyper.js
+: 1574385758:0;chezmoi add ~/.bash_history
+: 1574385762:0;chezmoi add ~/.bash_profile
+: 1574385772:0;chezmoi add ~/.bashrc
+: 1574385783:0;chezmoi add ~/.gitconfig
+: 1574385794:0;chezmoi add ~/.profile
+: 1574385922:0;chezmoi add ~/.scmbrc
+: 1574385930:0;chezmoi add ~/.z
+: 1574385940:0;chezmoi add ~/.zlogin
+: 1574385945:0;chezmoi add ~/.zlogout
+: 1574385952:0;chezmoi add ~/.zprofile
+: 1574385962:0;chezmoi add ~/.zshenv
+: 1574386006:0;chezmoi cd
+: 1574386021:0;git add .
+: 1574386024:0;gst
+: 1574386039:0;g commit -m "Add source files"
+: 1574386045:0;exit
+: 1574386076:0;chezmoi cd
+: 1574386106:0;git remote add origin https://github.com/theold/dotfiles.git
+: 1574386128:0;gp -u origin master
+: 1574386375:0;ssh-keygen -t rsa -b 4096 -C "leandro_rodrigues@live.com"
+: 1574386430:0;eval "$(ssh-agent -s)"
+: 1574386476:0;nano ~/.ssh/config
+: 1574386573:0;ssh-add -K ~/.ssh/id_rsa
+: 1574386591:0;pbcopy < ~/.ssh/id_rsa.pub
+: 1574386667:0;gp -u origin master
+: 1574386688:0;chezmoi cd
+: 1574386694:0;gp -u origin master
+: 1574386797:0;git remote add origin https://github.com/TheOld/dotfiles.git
+: 1574386850:0;cd
+: 1574386855:0;chezmoi help
+: 1574386883:0;chezmoi verify
+: 1574386938:0;clear
+: 1574387460:0;y test
+: 1574388775:0;cd 1
+: 1574388783:0;up
+: 1574388785:0;lc
+: 1574388792:0;cd typ-design-system
+: 1574388794:0;y
+: 1574389188:0;y start
+: 1574389220:0;yd ev
+: 1574389222:0;y dev
+: 1574389330:0;y build
+: 1574390094:0;up 1
+: 1574390133:0;npx create-react-app typ-component-lib
+: 1574390210:0;cd typ-component-lib
+: 1574390216:0;y add react-styleguidist -D
+: 1574390710:0;y styleguide
+: 1574391134:0;y add node-sass -D
+: 1574391198:0;y styleguide
+: 1574391459:0;yarn add --dev flow-bin
+: 1574391511:0;y flow init
+: 1574392188:0;y add flow-typed jest@20.0.4 jest-cli@20.0.4 ./node_modules/.bin/flow-typed
+: 1574392294:0;y flow
+: 1574621297:0;y global add flow-typed
+: 1574621336:0;flow-typed install material-ui
+: 1574621527:0;flow-typed install @material-ui/core@v1.x.x
+: 1574621593:0;y add @material-ui/core
+: 1574624795:0;y remove flow-bin
+: 1574625055:0;y styleguide
+: 1574625248:0;htop
+: 1574625465:0;y add @babel/plugin-proposal-export-default-from
+: 1574625496:0;y styleguide
+: 1574625595:0;touch .babelrc
+: 1574625634:0;y styleguide
+: 1574625809:0;clear
+: 1574625810:0;defaults write NSGlobalDomain KeyRepeat -int 1
+: 1574625818:0;defaults write NSGlobalDomain InitialKeyRepeat -int 10
+: 1574626141:0;y styleguide
+: 1574627465:0;y marketing
+: 1574627468:0;z marketing
+: 1574627471:0;clear
+: 1574627476:0;y test
+: 1574629135:0;ducky "Thanksgiving"
+: 1574629357:0;clear
+: 1574629358:0;time
+: 1574629365:0;cal
+: 1574629373:0;cal | lolcat
+: 1574629377:0;clear
+: 1574629621:0;y test
+: 1574631524:0;y jest
+: 1574631788:0;y test
+: 1574631819:0;y add enzyme -D
+: 1574632051:0;y remove enzyme
+: 1574632695:0;y start
+: 1574634803:0;y test
+: 1574636389:0;clear
+: 1574636392:0;y test
+: 1574638394:0;brew install mutt
+: 1574638585:0;sudo chgrp mail /usr/local/opt/mutt/bin/mutt_dotlock
+: 1574638599:0;sudo chmod g+s /usr/local/opt/mutt/bin/mutt_dotlock
+: 1574638607:0;clear
+: 1574638609:0;mutt
+: 1574639135:0;clear
+: 1574640554:0;weather
+: 1574640577:0;clear
+: 1574642849:0;y add enzyme -D
+: 1574642907:0;y test
+: 1574642979:0;y add enzyme-adapter-react-16 -D
+: 1574643063:0;touch enzyme.config.js
+: 1574643207:0;y test
+: 1574643307:0;clear
+: 1574643354:0;y test
+: 1574644458:0;y add sinon -D
+: 1574644534:0;y test
+: 1574644587:0;y test\
+: 1574644590:0;y test
+: 1574645081:0;z marketing
+: 1574645085:0;lc
+: 1574645109:0;cd src/__tests__/Login.spec.js
+: 1574645124:0;vim src/__tests__/Login.spec.js
+: 1574645183:0;y test
+: 1574645553:0;y start
+: 1574646315:0;y test
+: 1574646541:0;clear
+: 1574646986:0;y test
+: 1574650282:0;clear
+: 1574650339:0;y test
+: 1574650384:0;y start
+: 1574651758:0;y jest
+: 1574795056:0;source ~/.zshrc
+: 1574795065:0;htop
+: 1574795069:0;z marketing
+: 1574795137:0;ranger
+: 1574795423:0;clear
+: 1574795912:0;ranger
+: 1574796004:0;y test
+: 1574796281:0;clear
+: 1574796289:0;y remove enzyme
+: 1574796367:0;y test
+: 1574796542:0;y cz
+: 1574796865:0;git fetch
+: 1574796951:0;ssh-keygen -t ed25519 -C "leandro_rodrigues@live.com"
+: 1574797014:0;pbcopy < ~/.ssh/id_ed25519.pub
+: 1574797082:0;git fetch
+: 1574797196:0;ssh-keygen -t ed25519 -C "leandro@thankyoupayroll.co.nz"
+: 1574797213:0;pbcopy < ~/.ssh/gitlab.pub
+: 1574797376:0;pbcopy < ~/.ssh/id_ed25519.pub
+: 1574797405:0;ssh -T git@gitlab.com
+: 1574797486:0;ssh-keygen -t ed25519 -C "leandro@thankyoupayroll.co.nz"
+: 1574797495:0;pbcopy < ~/.ssh/id_ed25519.pub
+: 1574797514:0;gf
+: 1574797583:0;ssh -v git@gitlab.com
+: 1574797736:0;ssh-keygen -t rsa -C "leandro@thankyoupayroll.co.nz"
+: 1574797754:0;pbcopy < ~/.ssh/id_rsa.pub
+: 1574797775:0;gf
+: 1574797791:0;y cz
+: 1574798009:0;pwd
+: 1574798013:0;gp
+: 1574798024:0;git pull
+: 1574798194:0;z component
+: 1574798233:0;y styleguide
+: 1574798439:0;git remote add origin git@gitlab.com:thankyoupayroll/typ-component-library.git
+: 1574798543:0;git add .
+: 1574798574:0;git commit -m "Initial commit"
+: 1574798578:0;gp
+: 1574798938:0;clear
+: 1574799637:0;ranger --copy-config=options
+: 1574800050:0;cd
+: 1574800055:0;gtop
+: 1574800061:0;z marketing
+: 1574800089:0;gtop
+: 1574800386:0;clear
+: 1574800388:0;y start
+: 1574801973:0;y cz
+: 1574802007:0;gp
+: 1574802672:0;gtop
+: 1574802696:0;z custom
+: 1574802703:0;alias
+: 1574802724:0;zshrc
+: 1574802750:0;new-crt
+: 1574802878:0;ranger
+: 1574803130:0;new-crt
+: 1574803200:0;ranger
+: 1574803211:0;clear
+: 1574803310:0;new-crt
+: 1574803404:0;ranger
+: 1574803475:0;new-crt
+: 1574803513:0;gtop
+: 1574803604:0;update
+: 1574803618:0;new-crt
+: 1574803630:0;ranger
+: 1574803652:0;clear
+: 1574803715:0;ranger
+: 1574803728:0;z marketing
+: 1574803883:0;clear
+: 1574804450:0;htop
+: 1574805183:0;y start
+: 1574806202:0;y add react-hook-form
+: 1574807468:0;y
+: 1574807551:0;y start
+: 1574808986:0;y cz
+: 1574809027:0;new-crt
+: 1574809045:0;y start
+: 1574809060:0;z marketing
+: 1574809129:0;new-crt
+: 1574809149:0;z marketing
+: 1574809151:0;clear
+: 1574809153:0;lc
+: 1574809174:0;y start
+: 1574809321:0;y cz
+: 1574809838:0;y
+: 1574809909:0;y start
+: 1574812269:0;clear
+: 1574812271:0;gl
+: 1574812312:0;gp
+: 1574812424:0;cd
+: 1574812434:0;docker pull tizonia/docker-tizonia
+: 1574812499:0;brew install pulseaudio
+: 1574812587:0;brew services start pulseaudio
+: 1574812790:0;docker pull tizonia/docker-tizonia
+: 1574812819:0;pactl list short sinks
+: 1574812847:0;pacmd set-default-sing 2
+: 1574812855:0;pacmd set-default-sink 2
+: 1574812887:0;pulseaudio --load=module-native-protocol-tcp --exit-idle-time=-1 --daemon
+: 1574813129:0;USER_ID=$(id -u);
+: 1574813136:0;GROUP_ID=$(id -g);
+: 1574813143:0;docker run -it --rm \\
+    -e PULSE_SERVER=unix:${XDG_RUNTIME_DIR}/pulse/native \\
+    --volume=${XDG_RUNTIME_DIR}/pulse:${XDG_RUNTIME_DIR}/pulse \\
+    --volume="${HOME}/.config/tizonia":/home/tizonia/.config/tizonia \\
+    --volume "${HOME}/.config/pulse/cookie":/home/tizonia/.config/pulse/cookie \\
+    --name tizonia \\
+    tizonia/docker-tizonia "$@";
+: 1574813399:0;clear
+: 1574813471:0;docker run --rm -d tizonia/docker-tizonia:latest
+: 1574813658:0;clear
+: 1574813661:0;y
+: 1574813678:0;gmk
+: 1574813681:0;gkm
+: 1574813684:0;alias
+: 1574813688:0;commands
+: 1574813739:0;compgen -abc -A function
+: 1574813780:0;clear
+: 1574815045:0;cleaar
+: 1574815047:0;clear
+: 1574815101:0;y start
+: 1574815107:0;y
+: 1574818752:0;y start
+: 1574820467:0;z ~/Sites/typ-v3-marketing-site/
+: 1574820480:0;y build:styles
+: 1574822690:0;clear
+: 1574823166:0;git rebase develop
+: 1574823870:0;y build:styles
+: 1574823876:0;y start
+: 1574824207:0;y
+: 1574824714:0;y start
+: 1574824717:0;y
+: 1574824721:0;y start
+: 1574826245:0;y test
+: 1574827395:0;y start
+: 1574889494:0;y add classnames
+: 1574889803:0;y start
+: 1574907002:0;weather
+: 1574907021:0;cal
+: 1574907032:0;clear
+: 1574908018:0;y start
+: 1574909477:0;which stack
+: 1574909559:0;npm install -g how-2
+: 1574909621:0;zshrc
+: 1574909772:0;update
+: 1574909835:0;how2 "remove element from object"
+: 1574909855:0;how2 -l javascript how to remove element from object
+: 1574909871:0;update
+: 1574909887:0;howTo remove object from list
+: 1574909893:0;how2 -l javascript how to remove element from object
+: 1574909901:0;how2 -l javascript object
+: 1574909951:0;update
+: 1574910026:0;how2 -l javascript object
+: 1574910131:0;new-crt
+: 1574910187:0;htop
+: 1574910191:0;z marketing
+: 1574910195:0;how2 -l javascript object
+: 1574910201:0;y start
+: 1574911893:0;how2 -l javascript react spring hooks
+: 1574911918:0;how2 -l javascript how to use react spring hooks
+: 1574911937:0;how2 -l javascript reaact-spring hooks not working
+: 1574911948:0;how2 -l javascript react-spring hooks not working
+: 1574911956:0;how2 -l javascript react spring hooks not working
+: 1574911963:0;how2 -l javascript react spring
+: 1574911973:0;clear
+: 1574966400:0;new-crt
+: 1574966525:0;clear
+: 1574969058:0;z marketing
+: 1574969064:0;gst
+: 1574969376:0;y start
+: 1574969911:0;new-crt
+: 1574969918:0;htop
+: 1574970204:0;z marketing
+: 1574970211:0;cal
+: 1574970216:0;cal | lolcat
+: 1574970224:0;figlet "Beer time" | lolcat
+: 1574970242:0;y start
+: 1574971137:0;y lint:css
+: 1574971503:0;y start
+: 1574971968:0;y test
+: 1574976400:0;gcd
+: 1574976409:0;gl
+: 1574976423:0;clear
+: 1574976427:0;grd
+: 1574976430:0;git rebase develop
+: 1574976570:0;y
+: 1574976574:0;y start
+: 1574978154:0;y lint
+: 1574978235:0;y cz
+: 1574978321:0;y start
+: 1574978730:0;y cz
+: 1574978757:0;gp
+: 1574978767:0;gcd
+: 1574978772:0;gl
+: 1574978781:0;grbd
+: 1574978790:0;clear
+: 1574978792:0;grbd
+: 1574978970:0;y test
+: 1574979052:0;y cz
+: 1574979083:0;gp
+: 1574979304:0;y cz
+: 1574979362:0;clear
+: 1574979404:0;gp
+: 1574987932:0;clear
+: 1574989492:0;y
+: 1574989575:0;y start
+: 1574992526:0;clear
+: 1574992611:0;weather
+: 1574992622:0;clear
+: 1574992643:0;neofetch
+: 1574992732:0;unimatrix
+: 1574992740:0;figlet
+: 1574992746:0;figlet "Beer time" | lolcat
+: 1574992750:0;clear
+: 1574993130:0;y start
+: 1574994913:0;yarn add react-intersection-observer
+: 1575226749:0;clear
+: 1575226750:0;y
+: 1575226804:0;y staaart
+: 1575226807:0;y start
+: 1575240774:0;clear
+: 1575240781:0;y cz
+: 1575240825:0;gp
+: 1575240908:0;y cz
+: 1575240959:0;gp
+: 1575248204:0;clear
+: 1575248207:0;y
+: 1575248310:0;y start
+: 1575248546:0;clear
+: 1575248600:0;grbd
+: 1575248711:0;y && y start
+: 1575251038:0;y
+: 1575251118:0;y start
+: 1575252197:0;y build:styles
+: 1575254204:0;weather
+: 1575254221:0;clear
+: 1575254853:0;y stage:local
+: 1575255022:0;y server
+: 1575255024:0;y serve
+: 1575255061:0;y start
+: 1575400578:0;gcd
+: 1575400584:0;gl
+: 1575405295:0;y start
+: 1575412217:0;y cz
+: 1575412257:0;gp
+: 1575412265:0;git checkout master
+: 1575412269:0;gl
+: 1575412409:0;y
+: 1575412412:0;y start
+: 1575413396:0;jrnl -ls
+: 1575413425:0;jrnl -h
+: 1575413822:0;cd
+: 1575413835:0;touch .gitconfig
+: 1575413914:0;git lg2
+: 1575413921:0;z marketing
+: 1575413925:0;g lg2
+: 1575413952:0;g lg
+: 1575413970:0;clear
+: 1575413981:0;new-crt
+: 1575414015:0;ncmpcpp
+: 1575414246:0;ranger
+: 1575414547:0;pip3 install --user bum
+: 1575414561:0;bum
+: 1575414566:0;cd
+: 1575414569:0;bum
+: 1575414599:0;new-crt
+: 1575414604:0;htop
+: 1575414617:0;bum
+: 1575414954:0;ncmpcpp
+: 1575415283:0;sudo systemctl restart mopidy
+: 1575415317:0;mopidy -h
+: 1575415355:0;launchctl restart mopidy
+: 1575415423:0;launchctl load ~/Library/LaunchAgents/homebrew.mopidy.mopidy.plist
+: 1575415426:0;clear
+: 1575415430:0;ncmpcpp
+: 1575417052:0;z marketing
+: 1575417141:0;ncmpcpp
+: 1575417313:0;cd
+: 1575417333:0;cdhmod 700 clock
+: 1575417345:0;chmod +x chlock.sh
+: 1575417350:0;chmod +x clock.sh
+: 1575417361:0;./clock.sh
+: 1575417385:0;brew install toilet
+: 1575417462:0;brew install tmux
+: 1575417483:0;tmux -v
+: 1575417496:0;:q
+: 1575417504:0;clear
+: 1575417510:0;tmux -h
+: 1575417663:0;new-crt
+: 1575417698:0;git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+: 1575417716:0;code ~/.tmux.conf
+: 1575417763:0;code $XDG_CONFIG_HOME/tmux/tmux.conf
+: 1575417977:0;touch .tmux.conf
+: 1575417989:0;code ~/.tmux.conf
+: 1575418238:0;tmux source ~/.tmux.conf
+: 1575418257:0;tmux
+: 1575418389:0;tmux source ~/.tmux.conf
+: 1575418432:0;clear
+: 1575418539:0;xit
+: 1575418541:0;exit
+: 1575418550:0;tmux
+: 1575418556:0;??
+: 1575418563:0;?
+: 1575418709:0;exit
+: 1575418716:0;clock
+: 1575418721:0;./clock.sh
+: 1575418734:0;tmux
+: 1575418791:0;exit
+: 1575418797:0;tmux source ~/.tmux.conf
+: 1575418799:0;tmux
+: 1575418839:0;exit
+: 1575418845:0;tmux
+: 1575418878:0;clear
+: 1575418977:0;brew install gawk
+: 1575419053:0;exit
+: 1575419061:0;clear
+: 1575419065:0;./clock.sh
+: 1575419086:0;new-crt
+: 1575419095:0;htop
+: 1575419102:0;./clock.sh
+: 1575419109:0;tmux
+: 1575419114:0;./clock.sh
+: 1575419224:0;tmux-weather
+: 1575419272:0;exit
+: 1575419301:0;tmux
+: 1575419318:0;exit
+: 1575419402:0;./clock.sh
+: 1575419548:0;clear
+: 1575419591:0;tmux
+: 1575419794:0;exit
+: 1575419807:0;tmux source ~/.tmux.conf
+: 1575419810:0;tmux
+: 1575419857:0;z marketing
+: 1575419861:0;lc
+: 1575419880:0;./clock.sh
+: 1575419932:0;exit
+: 1575419952:0;git clone https://github.com/gpakosz/.tmux.git
+: 1575419974:0;ln -s -f .tmux/.tmux.conf
+: 1575419990:0;cp .tmux/.tmux.conf.local
+: 1575420083:0;git clone https://github.com/gpakosz/.tmux.git
+: 1575420091:0;ln -s -f .tmux/.tmux.conf
+: 1575420097:0;cp .tmux/.tmux.conf.local .
+: 1575420167:0;tmux
+: 1575420363:0;exit
+: 1575420411:0;curl -L http://xrl.us/installperlosx | bash
+: 1575420465:0;tail -f ~/perl5/perlbrew/build.perl-5.28.0.log
+: 1575420735:0;brew install gnu-sed
+: 1575420775:0;brew install perl
+: 1575420784:0;exit
+: 1575420789:0;clear
+: 1575420807:0;tmux
+: 1575421099:0;./clock.sh
+: 1575421134:0;clear
+: 1575421169:0;cava
+: 1575421225:0;exit
+: 1575421239:0;htop
+: 1575421297:0;z marketing
+: 1575421312:0;exit
+: 1575421502:0;git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+: 1575421820:0;set -g status-right '#{prefix_highlight} | %a %Y-%m-%d %H:%M'
+: 1575422046:0;clear
+: 1575422050:0;exit
+: 1575422066:0;ncmpcpp
+: 1575422069:0;ranger
+: 1575422101:0;clear
+: 1575422104:0;z marketing
+: 1575422106:0;clear
+: 1575422108:0;weather
+: 1575422115:0;clear
+: 1575422121:0;y start
+: 1575422357:0;clear
+: 1575422360:0;unimatrix
+: 1575422372:0;zshrc
+: 1575422413:0;lc | nms
+: 1575422432:0;clear
+: 1575422458:0;z marketing
+: 1575422472:0;cd src/__tests__/
+: 1575422475:0;ls
+: 1575422496:0;tail setup.js | nms
+: 1575422514:0;clear
+: 1575422517:0;cd
+: 1575422565:0;g lg
+: 1575422571:0;clear
+: 1575422836:0;ranger
+: 1575422907:0;nc
+: 1575422917:0;ncmpcpp
+: 1575423402:0;clear
+: 1575423404:0;exit
+: 1575423417:0;z marketing
+: 1575423421:0;exit
+: 1575423429:0;rexit
+: 1575423431:0;exit
+: 1575423443:0;tmux
+: 1575423500:0;exit
+: 1575423502:0;tmux
+: 1575423506:0;exit
+: 1575423531:0;tmux
+: 1575424148:0;nc
+: 1575424154:0;ncmpcpp
+: 1575424200:0;ranger
+: 1575424378:0;z marketing
+: 1575424595:0;ncmpcpp
+: 1575424608:0;q
+: 1575424611:0;exit
+: 1575424649:0;tmux
+: 1575424658:0;clear
+: 1575424664:0;tmux
+: 1575424809:0;exit
+: 1575424890:0;tmux
+: 1575425097:0;tmux ls
+: 1575425136:0;tmux ls -F "#S" | xargs -n 1 tmux kill-session
+: 1575425151:0;tmux
+: 1575425155:0;tmux ls
+: 1575425198:0;tmux ls -F "#S" | xargs -n 1 tmux kill-session
+: 1575425226:0;tmux kill-server
+: 1575425238:0;tmux ls
+: 1575425244:0;tmux
+: 1575425249:0;tmux ls
+: 1575425259:0;clear
+: 1575425273:0;tmux list-sessions
+: 1575425286:0;ps aux | grep tmux
+: 1575425298:0;pkill -f tmux
+: 1575425303:0;ps aux | grep tmux
+: 1575425326:0;tmux -h
+: 1575425333:0;tmux
+: 1575425360:0;pkill -f tmux
+: 1575425364:0;tmux ls
+: 1575425393:0;brew install reattach-to-user-namespace
+: 1575425434:0;tmux
+: 1575425501:0;ls
+: 1575425503:0;lc
+: 1575425536:0;clear
+: 1575425544:0;ncmpcpp
+: 1575425573:0;ranger
+: 1575426922:0;./clock.sh
+: 1575426994:0;clear
+: 1575426996:0;z marketing
+: 1575427006:0;gcd
+: 1575427020:0;clear
+: 1575427998:0;gopher txtn.ws
+: 1575428012:0;ssh redditbox.us
+: 1575429815:0;pip install spectrum-console
+: 1575429888:0;export LIBTOOL=`which glibtool`
+: 1575429896:0;export LIBTOOLIZE=`which glibtoolize`
+: 1575429901:0;ln -s `which glibtoolize` libtoolize
+: 1575429908:0;ln -s /usr/lib/libncurses.dylib /usr/local/lib/libncursesw.dylib
+: 1575429949:0;z ~/Documents/TerminalTools/
+: 1575429951:0;lc
+: 1575429959:0;git clone https://github.com/karlstav/cava.git
+: 1575429987:0;cd cava
+: 1575429994:0;./autogen.sh
+: 1575430008:0;brew install fftw ncurses libtool automake portaudio
+: 1575430035:0;ncmpcpp
+: 1575430056:0;./autogen.sh
+: 1575430084:0;ln -s `which glibtoolize` libtoolize
+: 1575430093:0;ln -s /usr/lib/libncurses.dylib /usr/local/lib/libncursesw.dylib\
+
+: 1575430097:0;./autogen.sh
+: 1575430107:0;export LIBTOOL=`which glibtool`
+: 1575430114:0;export LIBTOOLIZE=`which glibtoolize`
+: 1575430116:0;./autogen.sh
+: 1575430127:0;./configure
+: 1575430147:0;make
+: 1575430164:0;make install
+: 1575431523:0;y start
+: 1575431580:0;gtop
+: 1575433413:0;y start
+: 1575488024:0;y build:styles
+: 1575488378:0;y start
+: 1575489799:0;y test
+: 1575489880:0;clear
+: 1575490871:0;y startt
+: 1575490873:0;y start
+: 1575491052:0;gtop
+: 1575495602:0;y start
+: 1575501402:0;y cz
+: 1575502312:0;y start
+: 1575502952:0;ncmpcpp -h
+: 1575502960:0;ncmpcpp --help
+: 1575503382:0;touch ~/.ncmpcpp/config
+: 1575503499:0;ncmpcpp
+: 1575505461:0;clear
+: 1575505490:0;y
+: 1575505494:0;y start
+: 1575505575:0;htop
+: 1575508064:0;y test
+: 1575508137:0;zshrc
+: 1575508211:0;echo $LANG
+: 1575508216:0;update
+: 1575508235:0;echo $LANG
+: 1575508242:0;ncmpcpp
+: 1575508249:0;unimatrix
+: 1575508261:0;clear
+: 1575508332:0;echo -e '\u2190\u2191\u2192\u2193'
+: 1575508474:0;unimatrix -f
+: 1575508488:0;unimatrix -f -a
+: 1575508516:0;unimatrix -f -l k
+: 1575508559:0;unimatrix -f -l m
+: 1575508779:0;unimatrix
+: 1575508787:0;unimatrix -f -l m
+: 1575508799:0;exit
+: 1575508814:0;exitr
+: 1575508815:0;exit
+: 1575508819:0;n
+: 1575508822:0;ncmpcpp
+: 1575508836:0;unimatrix -f -l m
+: 1575508844:0;unimatrix
+: 1575508853:0;z marketingf
+: 1575508856:0;z marketing
+: 1575508858:0;clear
+: 1575509572:0;htop
+: 1575511520:0;brew install rtv
+: 1575511581:0;rtv
+: 1575511685:0;clear
+: 1575512868:0;cd
+: 1575512878:0;gem install terjira
+: 1575512894:0;sudo gem install terjira
+: 1575512963:0;sudo gem install -n /usr/local/bin  terjira
+: 1575513021:0;jira login
+: 1575513156:0;jira print-project
+: 1575513164:0;jira project ls
+: 1575513376:0;jira
+: 1575513383:0;jira login
+: 1575513454:0;jira project ls
+: 1575513497:0;jira board ls
+: 1575513546:0;jira issue ls -- project --assignee ME
+: 1575513562:0;jira spring active
+: 1575513578:0;jira issue ls --project --assignee ME
+: 1575513590:0;jira issue ls --project
+: 1575513625:0;jira issue ls --project MW
+: 1575513657:0;jira sprint active
+: 1575513742:0;jira issue -a ALL
+: 1575513753:0;jira issue ls -a ALL
+: 1575513792:0;clear
+: 1575513794:0;z marketing
+: 1575513799:0;jira issue ls
+: 1575513830:0;jira issue take MW-7
+: 1575513963:0;jira issue assign MW-7 leandro
+: 1575514022:0;jira board backlog
+: 1575514262:0;clear
+: 1575514264:0;htop
+: 1575829515:0;brew install rigellute/ta/spotify-tui
+: 1575829671:0;brew install Rigellute/tap/spotify-tui
+: 1575829697:0;brew upgrade spotify-tui
+: 1575829734:0;cd
+: 1575829738:0;htop
+: 1575829746:0;spt
+: 1575829940:0;neofetch | lolcat
+: 1575830317:0;bash <(curl -Ss https://my-netdata.io/kickstart.sh)
+: 1575830521:0;brew install ossp-uuid autoconf automake pkg-config
+: 1575830629:0;z terminal
+: 1575830633:0;git clone https://github.com/netdata/netdata.git --depth=100
+: 1575830642:0;cd netdata
+: 1575830660:0;sudo ./netdata-installer.sh --install /usr/local
+: 1575832311:0;clear
+: 1575832402:0;npm install -g vtop
+: 1575832475:0;vtop
+: 1575832519:0;clear
+: 1575832781:0;spt
+: 1575833508:0;z marketing
+: 1575834305:0;telnet towel.blinkenlights.nl
+: 1575834329:0;brew install telnet
+: 1575834345:0;telnet towel.blinkenlights.nl
+: 1575834563:0;../
+: 1575834579:0;mkdir typ-svc
+: 1575834584:0;cd typ-svc
+: 1575834609:0;npm init
+: 1575834682:0;y add express request
+: 1575834788:0;touch server.js
+: 1575834814:0;mkdir api service
+: 1575835273:0;exit
+: 1575835331:0;tmux
+: 1575835354:0;ncmpcpp
+: 1575835369:0;vtop
+: 1575835426:0;z svc
+: 1575836453:0;z marketing
+: 1575836461:0;lc
+: 1575836514:0;cd src
+: 1575836516:0;lc
+: 1575836528:0;cat index.js
+: 1575836690:0;../
+: 1575836694:0;code .
+: 1575836822:0;ncmpcpp
+: 1575839110:0;y
+: 1575839121:0;y stage:local
+: 1575839247:0;y serve
+: 1575839503:0;y stage:local
+: 1575839589:0;y serve
+: 1575839710:0;y stage:local
+: 1575839791:0;y serve
+: 1575840395:0;open .
+: 1575841441:0;exit
+: 1575841450:0;ncmpcpp
+: 1575841461:0;vtop
+: 1575842266:0;npm i moleculer-cli -g
+: 1575842956:0;gtop
+: 1575845637:0;z marketing
+: 1575845639:0;y
+: 1575845681:0;y start
+: 1575852153:0;y build
+: 1575852298:0;yarn lint
+: 1575854581:0;y
+: 1575854587:0;y start
+: 1575854997:0;y stage:local
+: 1575855116:0;y serve
+: 1575855522:0;y start
+: 1575857578:0;y lint
+: 1575857613:0;grbd
+: 1575857822:0;y start
+: 1575921562:0;../
+: 1575921565:0;lc
+: 1575921614:0;moleculer init project typ-microservices
+: 1575921750:0;open .
+: 1575921761:0;cd typ-microservices
+: 1575921780:0;npm audit fix
+: 1575921826:0;npm install -g npm
+: 1575922686:0;yarn dev
+: 1575922759:0;yarn remove nats
+: 1575922765:0;y
+: 1575922864:0;../
+: 1575922869:0;z Sites
+: 1575922872:0;lc
+: 1575922884:0;moleculer init project typ-microservices
+: 1575922910:0;cd typ-microservices
+: 1575922911:0;y
+: 1575922950:0;npm audit fix
+: 1575922961:0;y audit fix
+: 1575923128:0;npm install
+: 1575923198:0;npm audit fix
+: 1575923226:0;yarn cleanup
+: 1575923246:0;y dev
+: 1575925451:0;y add bcrypt jsonwebtoken
+: 1575926029:0;y add moleculer-fake
+: 1575926052:0;y add lodash
+: 1575926465:0;y remove jsonwebtoken
+: 1575926500:0;lc
+: 1575926524:0;y dev
+: 1575929853:0;docker compose up
+: 1575929860:0;docker up
+: 1575929985:0;docker --help
+: 1575930022:0;docker-compose up -d
+: 1575930233:0;docker run --rm -d -p 27017:27017/tcp mongo:latest
+: 1575930419:0;docker-compose down -d
+: 1575930449:0;docker-compose -h
+: 1575930469:0;docker-compose top
+: 1575930501:0;y add nats
+: 1575930768:0;y dev
+: 1575930933:0;docker-compose up -d
+: 1575931537:0;../
+: 1575931542:0;zshrc
+: 1575931564:0;open .
+: 1575931577:0;moleculer init project typ-microservices
+: 1575931752:0;npm audit fix
+: 1575931759:0;cd typ-
+: 1575931769:0;cd typ-microservices
+: 1575931772:0;npm audit fix
+: 1575931809:0;clear
+: 1575931841:0;dcupd
+: 1575932141:0;docker-compose down -d
+: 1575932177:0;docker-compose down
+: 1575932274:0;y
+: 1575932718:0;clear
+: 1575932798:0;git init
+: 1575932808:0;git remote add origin git@gitlab.com:thankyoupayroll/typ-ms-custom-fee.git
+: 1575932864:0;git add .
+: 1575932875:0;git commit -m "Initial commit"
+: 1575932882:0;git push -u origin master
+: 1575934337:0;gcdn
+: 1575934345:0;ddcdn
+: 1575934350:0;dcdn
+: 1575935186:0;y dev
+: 1575935232:0;y add moleculer-db moleculer-db-adapter-mongo
+: 1575935271:0;y dev
+: 1575935398:0;z ~/Documents/TerminalTools/
+: 1575935402:0;cd nats-server
+: 1575935415:0;./nats-server
+: 1576089575:0;../
+: 1576089589:0;mkdir KBProfiles
+: 1576089592:0;cd KBProfiles
+: 1576089598:0;git clone https://github.com/stickus/Anne-Pro-2-Color-Profiles.git
+: 1576092549:0;clear
+: 1576092555:0;tmux
+: 1576092596:0;exit
+: 1576092601:0;ncmpcpp
+: 1576092612:0;gtop
+: 1576092639:0;exit
+: 1576092650:0;clear
+: 1576094453:0;brew cask install dozer
+: 1576095376:0;tmux
+: 1576095400:0;exit
+: 1576095427:0;clear
+: 1576095429:0;ncmpcpp
+: 1576095458:0;gtop
+: 1576095499:0;ncmpcpp
+: 1576095506:0;gtop
+: 1576095510:0;clear
+: 1576095665:0;brew tap dteoh/sqa
+: 1576095770:0;brew cask install slowquitapps
+: 1576096106:0;brew cu slowquitapps
+: 1576098518:0;ncmpcpp
+: 1576098932:0;brew cask install launchrocket
+: 1576099492:0;brew cask install spotmenu
+: 1576100225:0;brew cask install qlstephen
+: 1576101179:0;z sites
+: 1576101185:0;z Documents
+: 1576101191:0;mkdir Tutorials
+: 1576101195:0;cd Tutorials
+: 1576101201:0;git clone https://github.com/dev-mastery/comments-api.git
+: 1576101210:0;open .
+: 1576101375:0;brew install feh
+: 1576101414:0;brew install imagemagick
+: 1576101430:0;cd
+: 1576101440:0;pip install --user blurwal
+: 1576102170:0;brew install wmctrl
+: 1576102267:0;feh --bg-scale /Users/leandro/Pictures/wallhaven.jpg
+: 1576102492:0;feh --bg-scale /Users/leandro/Pictures/wallhaven.jpg --bg-scale /Users/leandro/Pictures/wallhaven.jpg
+: 1576102629:0;~/Documents/Scripts/blurme
+: 1576102636:0;sudo ~/Documents/Scripts/blurme
+: 1576102850:0;sudo ~/Documents/Scripts/blurme.sh
+: 1576102866:0;cd ~/Documents/Scripts
+: 1576102869:0;lc
+: 1576102881:0;./blurme.sh
+: 1576102887:0;_ ./blurme.sh
+: 1576102908:0;sudo blurme.sh
+: 1576102918:0;_ ./blurme
+: 1576107242:0;ncmpcpp
+: 1576107253:0;gtop
+: 1576107264:0;z sites
+: 1576107821:0;cd Termina
+: 1576107828:0;git clone https://github.com/covertbert/iterm2-1984.git
+: 1576107837:0;cd iterm2-1984
+: 1576107889:0;neovim
+: 1576107897:0;neofetch
+: 1576107907:0;neofetch | lolcat
+: 1576107912:0;unimatrix
+: 1576107917:0;clear
+: 1576109402:0;cd Users/leandro/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.8/
+: 1576113322:0;z ~/Sites/typ-v3-marketing-site/
+: 1576113324:0;y
+: 1576113358:0;y start
+: 1576116061:0;clear
+: 1576116067:0;weather
+: 1576180536:0;clear
+: 1576186666:0;z ~/Sites/typ-microservices/
+: 1576186668:0;clear
+: 1576186672:0;y
+: 1576188782:0;nc
+: 1576188791:0;ncmpcpp
+: 1576190601:0;clear
+: 1576191274:0;y dev
+: 1576192238:0;z NATS
+: 1576192241:0;lc
+: 1576192250:0;./nats-server
+: 1576192255:0;y dev
+: 1576192737:0;docker-compose down
+: 1576192950:0;y dev
+: 1576198175:0;ncmpcpp
+: 1576198323:0;clear
+: 1576198442:0;y dev
+: 1576201405:0;dcupd
+: 1576201477:0;y dev
+: 1576203832:0;dcupd
+: 1576203964:0;ddcdn
+: 1576203971:0;dcdn
+: 1576204146:0;dcupd
+: 1576204570:0;dcdn
+: 1576204584:0;dcupd
+: 1576204659:0;dcdn
+: 1576204682:0;./nats-server
+: 1576204685:0;y dev
+: 1576205183:0;dcdn
+: 1576205298:0;y dev
+: 1576207629:0;y dc:down
+: 1576208049:0;y dev
+: 1576208775:0;clear
+: 1576208786:0;y dev
+: 1576209017:0;./nats-server
+: 1576210494:0;y dev
+: 1576523966:0;./nats-server
+: 1576523969:0;y dev
+: 1576537403:0;z ~/Sites/typ-microservices/
+: 1576537414:0;y dev
+: 1576539513:0;lsof -nP -i4TCP:3000 | grep LISTEN\
+
+: 1576539574:0;y dev
+: 1576539583:0;./nats-server
+: 1576539585:0;y dev
+: 1576540353:0;y add underscore
+: 1576540411:0;y remove underscore && y add lodash
+: 1576540733:0;y dev
+: 1576543040:0;brew tap mongodb/brew
+: 1576543295:0;brew install mongodb-community@4.2
+: 1576543355:0;brew services start mongodb/brew/mongodb-community
+: 1576543373:0;mongo
+: 1576543778:0;z
+: 1576543788:0;cd
+: 1576543792:0;ncmpcpp
+: 1576543815:0;clear
+: 1576543818:0;z ~/Sites/typ-microservices/
+: 1576543885:0;y dev
+: 1576544270:0;touch .env
+: 1576544289:0;y dev
+: 1576544457:0;y add dotenv
+: 1576544494:0;y dev
+: 1576544570:0;mongo
+: 1576548023:0;y dev
+: 1576548775:0;y test
+: 1576549281:0;y dev
+: 1576549358:0;y test
+: 1576705355:0;code /Users/leandro/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.9/synthwave-x-fluoromachine.css
+: 1576725010:0;clear
+: 1576782086:0;y dev
+: 1576782103:0;.
+: 1576782107:0;./nats-server
+: 1576783336:0;pip3 install yet-another-spotify-lyrics --user
+: 1576784061:0;cd /Users/leandro/Library/Application Support/Firefox/Profiles/chrome
+: 1576784081:0;cd /Users/leandro/Library/Application Support/Firefox/Profiles
+: 1576784097:0;cd /Users/leandro/Library
+: 1576784100:0;lc
+: 1576784115:0;cd Application\ Support
+: 1576784126:0;cd Firefox/Profiles/chrome
+: 1576784132:0;touch userContent.css
+: 1576784187:0;touch userChrome.css
+: 1576784650:0;git clone https://github.com/vinceliuice/Mojave-gtk-theme.git
+: 1576784674:0;open .
+: 1576786888:0;../
+: 1576786890:0;open .
+: 1576787597:0;cd zcc11quu.default-release
+: 1576787599:0;cd chrome
+: 1576787605:0;touch customChrome.css
+: 1576787807:0;open .
+: 1576792012:0;sudo chown -R $(whoami) /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
+: 1576793224:0;clear
+: 1576793227:0;ncmpcpp
+: 1576793256:0;gtop
+: 1576793261:0;z ~/Documents/TerminalTools/nats-server/
+: 1576794213:0;clear
+: 1576794214:0;ncmpcpp
+: 1576794260:0;htop
+: 1576794502:0;chezmoi verify
+: 1576794510:0;chezmoi -h
+: 1576794543:0;;103;12M;103;12M7;58;8M7;58;8M7;58;8M7;58;8M7;58;8M7;58;8M7;58;8M7;58;8M7;58;8M7;58;8M7;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M6;58;8M7;58;8M7;58;8M7;58;8M7;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M5;58;8M4;58;8M4;58;8M4;58;8M4;58;8M4;58;8M4;58;7M4;58;8M4;58;8M4;58;8M6;58;8M6;58;8M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;1M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;3M7;57;2M7;57;2M7;56;10M7;56;10M7;56;10M7;56;10M7;56;10M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;9M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;8M7;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M;56;7M;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;7M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M6;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;6M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;5M7;56;4Mclear
+: 1576794548:0;clear
+: 1576794553:0;z ./config
+: 1576794556:0;z config
+: 1576794558:0;cd
+: 1576794571:0;cd .config
+: 1576794597:0;chezmoi -h
+: 1576794629:0;chezmoi add
+: 1576794633:0;lc
+: 1576794639:0;chezmoi synthwave84.css
+: 1576794646:0;chezmoi add synthwave84.css
+: 1576795274:0;$(whoami)
+: 1576795306:0;sudo chown -R leandro /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
+: 1576796621:0;which vscode
+: 1576796625:0;which code
+: 1576796683:0;$(whoami)
+: 1576796711:0;sudo chown $(whoami) /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
+: 1576796742:0;ls -l
+: 1576796756:0;cd /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
+: 1576796771:0;z Applications
+: 1576796784:0;lc
+: 1576796789:0;pwd
+: 1576796793:0;lc
+: 1576799949:0;z leandro
+: 1576799955:0;cd
+: 1576799962:0;pwd
+: 1576799977:0;cd /Library/Application\ Support/Code
+: 1576799989:0;lc
+: 1576800000:0;cd Code
+: 1576800002:0;lc
+: 1576800018:0;pwd
+: 1576800044:0;sudo chown $(whoami) /Users/leandro/Library/Application Support/Code
+: 1576800068:0;sudo chown $(whoami) /Users/leandro/Library/Application\ Support/Code
+: 1576808940:0;ncmpcpp
+: 1577657918:0;z microservices
+: 1577658689:0;z nats
+: 1577658695:0;./nats-server
+: 1577658698:0;y dev
+: 1577658851:0;mongod
+: 1577659282:0;y dev
+: 1577990753:0;ncmpcpp
+: 1577991686:0;htop
+: 1577994024:0;./nats-server
+: 1577996027:0;y dev
+: 1577996677:0;ncmpcpp
+: 1577996681:0;y dev
+: 1578254351:0;./nats-server
+: 1578254353:0;y dev
+: 1578262902:0;gtop
+: 1578270356:0;y dev
+: 1578271762:0;htop
+: 1578272102:0;y dev
+: 1578275717:0;ncmpcpp
+: 1578275730:0;htop
+: 1578275733:0;./nats-server
+: 1578517305:0;z ~/.ssh
+: 1578517321:0;chmod 600 typ-key.pem
+: 1578517357:0;z ~/Sites/typ-microservices/
+: 1578517364:0;y dc:up
+: 1578517496:0;docker ps -a
+: 1578517784:0;docker-machine ls
+: 1578517848:0;bash -c "clear && docker exec -it typ-microservices_mongo_1 bash"
+: 1578517894:0;docker exec -it 57158e992fa2a2eb9fd70fbc641fe440607d358cdd75b332780f2feec19f0b1a /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1578517919:0;docker logs -f 57158e992fa2a2eb9fd70fbc641fe440607d358cdd75b332780f2feec19f0b1a
+: 1578518132:0;docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' container_name_or_id
+: 1578518161:0;docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' typ-microservices
+: 1578518259:0;docker exec -it 328bf73ceee07614d0b50da398d46db9fec18174ad31e1760c8fcf6e509cc66b /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1578518325:0;ping 172.20.0.2
+: 1578518568:0;mongod --shutdown
+: 1578518577:0;mongod --help
+: 1578518612:0;mongod
+: 1578518644:0;mongod --help
+: 1578518688:0;$ top
+: 1578518727:0;killall mongod
+: 1578518940:0;docker exec -it 57158e992fa2a2eb9fd70fbc641fe440607d358cdd75b332780f2feec19f0b1a /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1578518969:0;mongo
+: 1578519019:0;brew services start mongodb-community@4.2
+: 1578519037:0;brew services restart mongodb-community
+: 1578519044:0;mongo
+: 1578519400:0;brew services stop mongodb-community
+: 1578519630:0;docker logs -f e64b06372bd2b668528f2e2d8dd24b5081f8361499e02ae9ea1cf3f3dfa9fa07
+: 1578519674:0;docker exec -it 328bf73ceee07614d0b50da398d46db9fec18174ad31e1760c8fcf6e509cc66b /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1578519892:0;ping localhost
+: 1578520068:0;docker logs -f 328bf73ceee07614d0b50da398d46db9fec18174ad31e1760c8fcf6e509cc66b
+: 1578520167:0;y dc:down
+: 1578520175:0;y start
+: 1578520183:0;./nats-server
+: 1578520221:0;y start
+: 1578520227:0;y dev
+: 1578520348:0;brew services start mongodb-community
+: 1578520352:0;y dev
+: 1578520934:0;y dc:up
+: 1578520958:0;brew services stop mongodb-community
+: 1578521008:0;y dc:up
+: 1578521263:0;docker logs -f 15c0d35167fd949ad3f8badd59896343579d64f24c99d5a67829a34f4b93dc17
+: 1578521361:0;y dc:up
+: 1578521464:0;docker logs -f c5b63b75d1eec1c70bc76c7a228f2e91647cdbd1d8711d5eec752ec6ff5c4806
+: 1578521487:0;docker logs -f 2b93f3fc0656e7f5d449da98c0d0b3cb926b57027277715e948b3bdc82fa6e53
+: 1578522349:0;y dc:down
+: 1578522368:0;y dc:up
+: 1578522498:0;docker logs -f b534da852ddcb6d48eb3a9d7f54cfa29ceb80025c28b32b5f50932731cf5d497
+: 1578522527:0;docker logs -f 7e490c917f04b375638d019701ef44dbc0b2f616d577d38f0401baf574ef832c
+: 1578523549:0;y dc:down
+: 1578523566:0;y dc:up
+: 1578523649:0;y dc:down
+: 1578523657:0;y dev
+: 1578523669:0;brew services start mongodb-community
+: 1578523675:0;y dev
+: 1578523784:0;y start
+: 1578523795:0;y dev
+: 1578525352:0;cal
+: 1578528888:0;y dc:up
+: 1578528913:0;docker logs -f a4f081f5817b93a5a08b6c229d1d622205a76b6c06eb455f44a32522697df054
+: 1578528943:0;docker logs -f 057f023c898c67c99b6399fbca2d37af9d2dc1c801c948d2d7b0dcdce97ca04f
+: 1578528978:0;exit
+: 1578529062:0;y dc:down
+: 1578529298:0;y dc:up
+: 1578529322:0;docker logs -f 92d93b2e15236140f4b35467d9622d6e26ddc13476a22f15d78c39875cb7e147
+: 1578529345:0;y dc:down
+: 1578529358:0;y dc:up
+: 1578529368:0;docker logs -f 92d93b2e15236140f4b35467d9622d6e26ddc13476a22f15d78c39875cb7e147
+: 1578529377:0;docker logs -f d9dca642d1dbdacbf0940a8e4f5c454db4e0bb110098015c69059d89a1345eba
+: 1578529411:0;docker logs -f 701afe45c7b62ca3f07e154e451862ed3ba31fbf45b10fd25e3f010e32e66b12
+: 1578529432:0;docker logs -f d9dca642d1dbdacbf0940a8e4f5c454db4e0bb110098015c69059d89a1345eba
+: 1578529451:0;docker logs -f 701afe45c7b62ca3f07e154e451862ed3ba31fbf45b10fd25e3f010e32e66b12
+: 1578529810:0;y dc:down
+: 1578529823:0;y dc:up
+: 1578529854:0;docker logs -f d4e3e1ef825731a4bf4db38aeff1bad3588b5a613318bd116c856d22f5964203
+: 1578529893:0;y dc:down
+: 1578530082:0;brew services start mongodb-community
+: 1578530087:0;y dev
+: 1578530113:0;y dc:up
+: 1578530137:0;docker logs -f c1a1143b8e004bcfd547fbf2189a4ada4ee20616c3993795f0797350430b796e
+: 1578530217:0;y dc:down
+: 1578530226:0;y dc:up
+: 1578530302:0;docker logs -f bded420a9bdcf98d4c5f0d9e8a3f6326c03d2b93286ee2bba01bd1dd856a54a5
+: 1578530320:0;y dc:down
+: 1578530334:0;y install ioredis
+: 1578530341:0;y add ioredis
+: 1578530413:0;y dc:up
+: 1578530503:0;docker logs -f 06dab896cdd0820a86a3bedd0a024027c1b3e4fd9d741b511f592d2996b8e4b3
+: 1578531329:0;y remove ioredis
+: 1578531372:0;y dc:down
+: 1578531429:0;y dc:up
+: 1578531499:0;docker logs -f e7e84b868961e95a9aec5ac202aa2fac3e349aeb4cb1d546af8197137d0ac052
+: 1578532032:0;y start
+: 1578532115:0;y dc:down
+: 1578532144:0;y dc:up
+: 1578532408:0;docker logs -f cdce545085a65813dd86161942e60ce3fca72cfde13de5e2e2976ea1154df824
+: 1578532425:0;docker logs -f d2242b4c93514026078898d0b3aaac20ae407a0b2248e1192ad6fa2e7b5ae64f
+: 1578532480:0;y dc:down
+: 1578532490:0;y dc:up
+: 1578532623:0;docker logs -f f92e5d90ffff1099454c1b4d6fdeee2435a019b3526c54e82f63f7c3bb3f0d84
+: 1578532672:0;y dc:down
+: 1578532681:0;y start
+: 1578532778:0;y dc:up
+: 1578533025:0;docker logs -f 6295a843d9802ca9e37a909a2764a27e131595fbd38719c6790e68bfc1b7abc9
+: 1578537299:0;y dc: down
+: 1578537313:0;y dc:down
+: 1578538128:0;y dc:up
+: 1578538244:0;docker logs -f a38e3240a03304e8b0b7cfea199e33fc3526ea345d8ccaf14be324821f8575d7
+: 1578538266:0;y dc:down
+: 1578538280:0;y dc:up
+: 1578538331:0;docker logs -f a38e3240a03304e8b0b7cfea199e33fc3526ea345d8ccaf14be324821f8575d7
+: 1578538345:0;docker logs -f ea7f3864da6f1fb47626de429c4cf6a26d466e0d08ea1ef981fa3b9b44a97ca4
+: 1578538402:0;docker logs -f f36b5a25cf183887a72a55cf6a5a36b2a06c01384933c46e6e1493ae5dc4af64
+: 1578538525:0;y dc:down
+: 1578538581:0;y start
+: 1578538598:0;./nats-server
+: 1578538600:0;y start
+: 1578538869:0;brew services stop mongodb-community
+: 1578538886:0;y start
+: 1578610763:0;ncmpcpp
+: 1578611428:0;y dev
+: 1578614597:0;z ~/Sites/typ-microservices/
+: 1578614605:0;brew services start mongodb-community
+: 1578614778:0;ncmpcpp
+: 1578614957:0;y dev
+: 1578616893:0;pip install spotui
+: 1578616918:0;brew upgrade python
+: 1578617366:0;pip install spotui
+: 1578618845:0;y dev
+: 1578620345:0;z marketing
+: 1578620364:0;y
+: 1578622107:0;y dev
+: 1578867836:0;y test
+: 1578869008:0;y dev
+: 1578878117:0;y dc:up
+: 1578878194:0;docker logs -f 7b64dfe715605bdff09aaa8f2bba46aea0f5b72d0e8091e23a57497dad4166c6
+: 1578878229:0;docker logs -f cb29b150864ecacdcd52277650ce1eb62ae4f0de92c16d836d0107e91e774262
+: 1578878321:0;y dev
+: 1578878376:0;y start
+: 1578878410:0;y dc:down
+: 1578878493:0;docker-compose up api
+: 1578878738:0;z ~/Sites/typ-microservices/
+: 1578878743:0;docker-compose up mongo
+: 1578878765:0;docker-compose up api
+: 1578878819:0;docker-compose up -d
+: 1578878841:0;docker logs -f 4e164aabb8021f72b8e6087793fbabbfc2de65b84cd0d9b12713e489abc4890b
+: 1578878991:0;docker-compose down
+: 1578879002:0;docker-compose up --build -d
+: 1578879043:0;docker logs -f d8e2d172426182682d3e290c31d334718173bc3828dadc040ed014c1361cd986
+: 1578879096:0;docker exec -it d8e2d172426182682d3e290c31d334718173bc3828dadc040ed014c1361cd986 /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1578879143:0;mongo
+: 1578879226:0;docker logs -f 09e19395c7f21d5ae2e8a0e4fd7924a9fa09b3ef715ad980adbee3decf374679
+: 1578879283:0;y dc:down
+: 1578879948:0;y dc: up
+: 1578879951:0;y dc:up
+: 1578880057:0;y dc:down
+: 1578880066:0;y dc:up
+: 1578880086:0;ncmpcpp
+: 1578880106:0;docker logs -f 762005f8aaed65e6cd435b22f2c46baf8d66fdad46dec4dd83d20426a05c0461
+: 1578880180:0;brew services stop mongodb-community
+: 1578880231:0;docker exec -it 4e952e99c2f2b2a56ff7bdc69c7eb9a6384bacff25e588442f5e5242f876733b /bin/sh -c "[ -e /bin/bash ] && /bin/bash || /bin/sh"
+: 1578880742:0;./nats-server
+: 1578880746:0;y dev
+: 1578880771:0;y dc:down
+: 1578880777:0;y dev
+: 1578880793:0;zshrc
+: 1578880868:0;source ~/.zshrc
+: 1578880883:0;mongo-up
+: 1578880928:0;system-update
+: 1578881920:0;clear
+: 1578881922:0;pwd
+: 1578881925:0;z marketing
+: 1578881945:0;lc
+: 1578881962:0;clear
+: 1578881966:0;cd
+: 1578881972:0;ncmpcpp
+: 1578881987:0;gtop
+: 1578881997:0;z microservices
+: 1578882496:0;source ~/.zshrc
+: 1578882508:0;clear
+: 1578883823:0;z sites
+: 1578883824:0;lc
+: 1578883833:0;cd typ-v2
+: 1578883837:0;lc
+: 1578883840:0;cd payroll
+: 1578883841:0;lc
+: 1578883844:0;cd ruru
+: 1578883848:0;cd custom_fees_tool
+: 1578883853:0;y && y start
+: 1578883871:0;z microservices
+: 1578883879:0;y dc:up
+: 1578885110:0;y start
+: 1578941638:0;git clone --recurse-submodules https://github.com/qmk/qmk_firmware.git
+: 1578941753:0;cd qmk_firmware
+: 1578941765:0;util/qmk_install.sh
+: 1578942907:0;make clueboard/66/rev3:default
+: 1578942959:0;open keyboards/keebio/iris/keymaps
+: 1578943797:0;make keebio/iris/rev4:sethBarberee
+: 1578943822:0;open .
+: 1578944687:0;make keebio/iris/rev4:sethBarberee
+: 1578957086:0;z ~/qmk_firmware/
+: 1578957102:0;make keebio/iris/rev4:sethBarberee
+: 1578964537:0;z na
+: 1578964547:0;z nats
+: 1578964553:0;./nats-server
+: 1578964573:0;clear
+: 1578966939:0;y dev
+: 1578966966:0;y dc:down
+: 1578967285:0;y dev
+: 1578967323:0;mongo-up
+: 1578967411:0;y dev
+: 1578968864:0;y
+: 1578969569:0;y dev
+: 1579203170:0;y deb
+: 1579203174:0;y dev
+: 1579215930:0;git push
+: 1579216060:0;y dev
+: 1579221404:0;y
+: 1579221531:0;y dev
+: 1579222278:0;y
+: 1579222308:0;y dev
+: 1579223441:0;gtop
+: 1579223734:0;y dev
+: 1579224687:0;gp
+: 1579224725:0;cleaaar
+: 1579224728:0;clear
+: 1579224735:0;git push
+: 1579225642:0;y deb
+: 1579225646:0;y dev
+: 1579229528:0;z miroservices
+: 1579229533:0;z microservices
+: 1579229536:0;y dev
+: 1579634121:0;gtop
+: 1579636517:0;y dev
+: 1579647598:0;ncmpcpp
+: 1579647629:0;cleear
+: 1579647631:0;clear
+: 1579647634:0;gtop
+: 1579647640:0;z microservices
+: 1579647679:0;lc
+: 1579649201:0;ncmpcpp
+: 1579650915:0;y ydev
+: 1579650919:0;y dev
+: 1579657596:0;z ~/qmk_firmware/
+: 1579657598:0;lc
+: 1579657614:0;cd keyboards
+: 1579657616:0;lc
+: 1579657622:0;cd keebio/iris
+: 1579657624:0;lc
+: 1579657628:0;cd keymaps
+: 1579657630:0;lc
+: 1579657643:0;make keebio/iris/rev4:sethBarberee
+: 1579657654:0;cd ../../
+: 1579657665:0;make keebio/iris/rev4:sethBarberee
+: 1579660598:0;y dev
+: 1579719122:0;ncmpcpp
+: 1579721786:0;z ~/Sites/typ-v2/payroll/ruru/custom_fees_tool/
+: 1579721792:0;gl
+: 1579723923:0;y
+: 1579723928:0;y start
+: 1579727515:0;ncmpcpp
+: 1579728985:0;z microservices
+: 1579729626:0;brew tap heroku/brew && brew install heroku
+: 1579729765:0;heroku autocomplete
+: 1579729794:0;heroku login
+: 1579729828:0;heroku git:remote -a typ-cft
+: 1579729835:0;git add .
+: 1579729852:0;git commit -m "Heroku deploy"
+: 1579729867:0;git push heroku master
+: 1579729910:0;git add .
+: 1579729936:0;git commit -m "Removed packaage-lock"
+: 1579729941:0;git push heroku master
+: 1579730125:0;heroku run
+: 1579730131:0;heroku run bash
+: 1579730216:0;weather
+: 1579730345:0;touch heroku.yml
+: 1579730420:0;git add heroku.yml
+: 1579730440:0;git commit -m "Add heroku.yml"
+: 1579730449:0;git push heroku master
+: 1579730818:0;heroku container:login
+: 1579730840:0;docker ps
+: 1579730909:0;heroku container:login
+: 1579730942:0;heroku container:push web
+: 1579730972:0;npm install
+: 1579731012:0;npm
+: 1579731048:0;which npm
+: 1579731158:0;npm install
+: 1579731276:0;npm audit fix
+: 1579731305:0;heroku container:push web
+: 1579731401:0;heroku container:release web
+: 1579731426:0;heroku open
+: 1579731844:0;heroku logs
+: 1579732193:0;heroku run 'ls -al'
+: 1579732216:0;heroku run basj
+: 1579732235:0;heroku run bash
+: 1579732265:0;heroku run 'cd data'
+: 1579732440:0;docker build -t my_image .
+: 1579732486:0;docker inspect my_image --format={{.Id}}
+: 1579732520:0;heroku run bash --type=web
+: 1579734147:0;mongo ds225205.mlab.com:25205/heroku_0hpzgk30 -u heroku_0hpzgk30 -p 6vksrjakgi5f1ousvegak58t5m
+: 1579736593:0;heroku container:push web
+: 1579736626:0;heroku container:r
+: 1579736641:0;heroku container:release web
+: 1579736652:0;heroku open
+: 1579737041:0;y dev
+: 1579737559:0;heroku container:release web
+: 1579737594:0;heroku container:push web
+: 1579737624:0;heroku container:release web
+: 1579737859:0;docker run --rm -it registry.heroku.com/typ-cft/web:latest
+: 1579737881:0;docker logs -f faa97c94412b44285c3a4aef3a3b4bf03ff0cd6f0812815e2963f6e6afbf5d5b
+: 1579738144:0;heroku stack:set heroku-18
+: 1579738156:0;git push heroku master
+: 1579738562:0;git commit .
+: 1579738590:0;git add .
+: 1579738610:0;git commit -m "Updated DB URI key"
+: 1579738614:0;git push heroku master
+: 1579740020:0;node -v
+: 1579740279:0;ncmpcpp
+: 1579740302:0;git checkout -b staging
+: 1579740326:0;git push --set-upstream origin staging
+: 1579740434:0;touch .gitlab-ci.yml
+: 1579740560:0;git add .
+: 1579740579:0;git commit -m 'Deploying to Heroku'
+: 1579740594:0;git push --set-upstream origin staging
+: 1579740652:0;git commit -m 'Deploying to Heroku'
+: 1579740660:0;gp
+: 1580063274:0;ncmpcpp
+: 1580066399:0;y test
+: 1580067016:0;gtop
+: 1580068273:0;clear
+: 1580069402:0;weather
+: 1580069655:0;ncmpcpp | lolcat
+: 1580069676:0;ncmpcpp
+: 1580069688:0;cal | lolcat
+: 1580069736:0;lc | nms
+: 1580069760:0;lc | nms | lolcat
+: 1580069772:0;lc
+: 1580069774:0;ls
+: 1580069776:0;lc
+: 1580069788:0;lc | lolcat
+: 1580069796:0;neofetch | lolcat
+: 1580069815:0;lc | nms
+: 1580071144:0;lc
+: 1580071150:0;pwd
+: 1580077919:0;pwd | nms
+: 1580081833:0;ncmpcpp
+: 1580081853:0;htop
+: 1580081861:0;gtop
+: 1580086289:0;clear
+: 1580092298:0;ncmpcpp
+: 1580093447:0;clear
+: 1580151841:0;ncmpcpp
+: 1580168478:0;clear
+: 1580171546:0;z microservices
+: 1580171552:0;y test
+: 1580178169:0;y dev
+: 1580323876:0;ncmpcpp
+: 1580326839:0;y dev
+: 1580327318:0;upgrade_oh_my_zsh
+: 1580327455:0;cd ~/.oh-my-zsh
+: 1580327458:0;git stash
+: 1580327469:0;lc
+: 1580327574:0;upgrade_oh_my_zsh
+: 1580327628:0;zshrc
+: 1580327689:0;system-update
+: 1580327815:0;ncmpcpp
+: 1580327895:0;gtop
+: 1580328960:0;pwd
+: 1580328963:0;cd
+: 1580328971:0;z microservices
+: 1580328977:0;git status
+: 1580331560:0;y
+: 1580331591:0;npm install
+: 1580331623:0;npm install -g npm
+: 1580331666:0;sudo npm install -g npm
+: 1580331715:0;git statys
+: 1580331719:0;git status
+: 1580332425:0;y dev
+: 1580333112:0;mongo ds225205.mlab.com:25205/heroku_0hpzgk30 -u heroku_0hpzgk30 -p 6vksrjakgi5f1ousvegak58t5m
+: 1580334158:0;mongodump --uri="mongodb://heroku_0hpzgk30:6vksrjakgi5f1ousvegak58t5m@ds225205.mlab.com:25205/heroku_0hpzgk30"
+: 1580334840:0;mongorestore -h ds147436.mlab.com:47436 -d heroku_x64bggpn -u typ-cft-db-staging -p test1234
+: 1580334894:0;mongorestore --uri="mongodb://typ-cft-db-staging:test1234@ds225205.mlab.com:25205/heroku_x64bggpn"
+: 1580334999:0;mongorestore --uri="mongodb://typ-cft:test1234@ds225205.mlab.com:25205/heroku_x64bggpn"
+: 1580335050:0;mongorestore -h ds147436.mlab.com:47436 -d heroku_x64bggpn -u typ-cft -p test1234
+: 1580335225:0;mongorestore -h ds147436.mlab.com:47436 -d heroku_x64bggpn -u typ-cft -p test1234 dump/fees.bson
+: 1580335264:0;mongorestore -h ds147436.mlab.com:47436 -d heroku_x64bggpn -u typ-cft -p test1234 fees.bson
+: 1580335280:0;mongorestore -h ds147436.mlab.com:47436 -d heroku_x64bggpn -u typ-cft -p test1234
+: 1580335353:0;mongorestore -h ds147436.mlab.com:47436 -d heroku_x64bggpn -u typ-cft -p test1234 ~/Sites/typ-microservices/dump
+: 1580335371:0;mongorestore -h ds147436.mlab.com:47436 -d heroku_x64bggpn -u typ-cft -p test1234 ~/Sites/typ-microservices/dump/heroku_x64bggpn
+: 1580340497:0;heroku login
+: 1580341114:0;ncmpcpp
+: 1580342150:0;y dev
+: 1580342497:0;mongo ds147436.mlab.com:47436/heroku_x64bggpn -u typ-cft -p test1234
+: 1580342551:0;y dev
+: 1580348746:0;ncmpcpp
+: 1580352974:0;y dev
+: 1580415936:0;git status
+: 1580415959:0;git add
+: 1580415972:0;git add .
+: 1580415981:0;g status
+: 1580416062:0;git commit 
+: 1580418364:0;git commit -m 'I will never forget to commit at the end of the day again, and provide instruction manual for using my keyboard''\
+;\
+'
+: 1580418369:0;git log
+: 1580418377:0;git status
+: 1580418392:0;git push -u origin 
+: 1581538403:0;ncmpcpp
+: 1581538464:0;gtop
+: 1581538642:0;z microservices
+: 1581547328:0;ncmpcpp
+: 1581623269:0;cd
+: 1581623637:0;brew cask install android-platform-tools
+: 1581623730:0;adb devices
+: 1581624014:0;/Users/leandro/Documents/TerminalTools/tools/android ; exit;
+: 1581624070:0;z ~/Documents/TerminalTools/
+: 1581624079:0;cd tools/bin
+: 1581624085:0;./sdkmanager
+: 1581624365:0;adb devices
+: 1581627981:0;fastboot boot twrp-3.2.1-0-fajita.img
+: 1581628069:0;adb kill-server
+: 1581628075:0;adb devices
+: 1581628929:0;ncmpcpp
+: 1581628952:0;gtop
+: 1581629075:0;which adb
+: 1581629122:0;cd /usr/local/Caskroom/android-platform-tools/29.0.5/platform-tools
+: 1581629323:0;fastboot oem get_unlock_code
+: 1581633973:0;adb devices
+: 1581636748:0;open .
+: 1581889797:0;z microservices
+: 1581889859:0;clear
+: 1581889978:0;yarn
+: 1581890149:0;y deb
+: 1581890151:0;y dev
+: 1581901523:0;ncmpcpp
+: 1581901534:0;z microservices
+: 1581901539:0;y dev
+: 1581968332:0;y
+: 1581968857:0;y dev
+: 1581969708:0;y
+: 1581969735:0;y deb
+: 1581969737:0;y dev
+: 1581973733:0;z marketing
+: 1581973735:0;y
+: 1581973739:0;y start
+: 1581977180:0;z ~/Sites/typ-microservices/
+: 1581977183:0;y dev
+: 1581982458:0;z ~/Sites/typ-v3-marketing-site/
+: 1581983237:0;y start
+: 1581985648:0;z microservices
+: 1581985668:0;y dev
+: 1582573030:0;z microservices
+: 1582573033:0;gtop
+: 1582573036:0;ncmpcpp
+: 1582573044:0;y dev
+: 1582573685:0;y devb
+: 1582573687:0;y dev
+: 1582578678:0;chezmoi help
+: 1582578684:0;update
+: 1582578813:0;zshrc
+: 1582578843:0;system-update
+: 1582579891:0;clear
+: 1582580018:0;z microservices
+: 1582580499:0;chezmoi add ~/.bashrc 
+: 1582580507:0;chezmoi add ~/.bash_profile
+: 1582580540:0;chezmoi add ~/.zsh_history

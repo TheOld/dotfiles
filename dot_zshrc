@@ -1,3 +1,10 @@
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Initialization code that may require console input (password prompts, [y/n]
+# confirmations, etc.) must go above this block, everything else may go below.
+if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
+  source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
+fi
+
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export PATH="${PATH}:${HOME}/.local/bin/"
@@ -92,8 +99,8 @@ unset file;
 # =============================================================================
 #                                   Variables
 # =============================================================================
-export LANG="en_US.UTF-8"
-export LC_ALL="en_US.UTF-8"
+export LANG="en_GB.UTF-8"
+export LC_ALL="en_GB.UTF-8"
 
 # export FZF_DEFAULT_OPTS='--height 40% --reverse --border --inline-info --color=dark,bg+:235,hl+:10,pointer:5'
 
@@ -111,8 +118,8 @@ export TERM=rxvt-256color
 export TERM="xterm-256color"
 export SHELL="/bin/zsh"
 export EDITOR="code -w"
-export LC_ALL=en_US.UTF-8
-export LANG=en_US.UTF-8
+export LC_ALL=en_GB.UTF-8
+export LANG=en_GB.UTF-8
 export PYTHONIOENCODING=utf-8
 
 # Stats debugging
@@ -163,7 +170,8 @@ zplug "supercrabtree/k"
 # Load theme
 # zplug "bhilburn/powerlevel9k", use:powerlevel9k.zsh-theme
 zplug 'mafredri/zsh-async', from:github
-zplug 'sindresorhus/pure', use:pure.zsh, from:github, as:theme
+# zplug 'sindresorhus/pure', use:pure.zsh, from:github, as:theme
+zplug 'romkatv/powerlevel10k', as:theme, depth:1
 # zplug "denysdovhan/spaceship-prompt", use:spaceship.zsh, from:github, as:theme
 # zplug "nivv/operator-theme", use:operator.zsh, from:github, as:theme
 
@@ -344,7 +352,7 @@ alias pu='() { pushd $1 &> /dev/null; dirs -v; }'
 # alias po='() { popd &> /dev/null; dirs -v; }'
 alias weather="curl wttr.in/Wellington,New+Zealand"
 alias y="yarn"
-alias new-crt="open -n -a cool-retro-term"
+alias new-crt="open -n /Users/leandro/Documents/TerminalTools/custom-macos-cool-retro-term/cool-retro-term.app"
 alias stfu="osascript -e 'set volume output muted true'"
 alias pumpitup="osascript -e 'set volume output volume 100'"
 # Lock the screen (when going AFK)
@@ -357,6 +365,9 @@ alias emptytrash="sudo rm -rfv /Volumes/*/.Trashes; sudo rm -rfv ~/.Trash; sudo 
 # alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
 # Get macOS Software Updates, and update installed Ruby gems, Homebrew, npm, and their installed packages
 alias system-update='sudo softwareupdate -i -a; brew update; brew upgrade; brew cleanup; npm install npm -g; npm update -g; sudo gem update --system; sudo gem update; sudo gem cleanup'
+
+alias mongo-up='brew services start mongodb-community'
+alias mongo-down='brew services stop mongodb-community'
 
 # =============================================================================
 #                                   Startup
@@ -402,8 +413,11 @@ zplug load
 # prompt purer
 
 source $(dirname $(gem which colorls))/tab_complete.sh
-source /Users/leandro/Documents/TerminalTools/almostontop/almostontop.plugin.zsh
+# source /Users/leandro/Documents/TerminalTools/almostontop/almostontop.plugin.zsh
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $ZSH/oh-my-zsh.sh
 
 [ -s "/Users/leandro/.scm_breeze/scm_breeze.sh" ] && source "/Users/leandro/.scm_breeze/scm_breeze.sh"
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
